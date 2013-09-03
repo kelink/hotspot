@@ -1,0 +1,28 @@
+Google China hackers stole source code: researcher
+2010-03-03 16:35:00.0
+Track China's Leaders
+Fri, Feb 26 2010
+Fri, Feb 26 2010
+Fri, Feb 26 2010
+Fri, Feb 26 2010
+Thu, Feb 25 2010
+A Chinese national flag sways in front of Google China's headquarters in Beijing in this January 14, 2010 file photo. Credit: Reuters/Jason Lee/Files
+Wed  EST
+) and dozens of other companies operating in China stole valuable computer source code by breaking into the personal computers of employees with privileged access, a security firm said on Wednesday.
+The hackers targeted a small number of employees who controlled source code management systems, which handle the myriad changes that developers make as they write software, said George Kurtz, chief technology officer at anti-virus software maker McAfee Inc MFE.N.
+Google said in January that it had detected a cyber attack originating from China on its corporate infrastructure that resulted in the theft of its intellectual property. Google said more than 20 other companies had been infiltrated, and cited the attack, as well as Chinese Web censorship practices, as reasons for the company to consider pulling out of China.
+The Chinese government has said that Google's claim that it was attacked by hackers based in China was "groundless."
+Kurtz said on Wednesday that he believes that the hackers, who have not been apprehended, broke through the defenses of at least 30 companies, and perhaps as many as 100.
+He said the common link in several of the cases that McAfee reviewed is that the hackers used source code management software from privately held Perforce Software Inc, whose customers include Google and many other large corporations.
+"It is very easy to compromise the systems," Kurtz said.
+Perforce President Christopher Seiwald said McAfee performed its analysis on a version of the Alameda, California-based company's software that had many of its security settings disabled. Customers typically enable those settings, he said.
+The attackers also had an opportunity to change the source code without the companies' knowledge, perhaps adding functions so the hackers could later secretly spy on computers running that software, Kurtz said.
+But investigators have yet to uncover any evidence that suggests that they made such changes, he said.
+McAfee, the world's No. 2 security software maker, has spent the past few months investigating the attacks. It declined to identify its clients.
+), Microsoft Corp (
+(Reporting by Jim Finkle; Editing by Richard Chang)
+                                                                                                                                                                                                                                                                                                                                                        
+And the Chinese government still refuses to investigate. It is quite obvious the Chinese government was involved; why else are they not trying to find the criminals that broke chinese law by attacking google? China is the worst place to have a business, because you are always being spied on by the Chinese military.
+Mar 04, 201012:02pm EST--
+DUH! We should not be in bed with such an evil giant in the first place. Criminal governments should not be acknowledged at all. Google had a chance to set REAL precedent and dropped the ball. Nobody but nobody is perfect but I, for one, expect more from the powerful and when they fail, the public accepts it. ¡­to be closer to the money and power, I assume. These hacker slash thieves slash freedom fighters prove that nobody is immune to attack.
+Mar 05, 201012:13pm EST--

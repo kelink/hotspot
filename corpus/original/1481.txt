@@ -1,0 +1,48 @@
+U.S. lawmakers seek to block China Huawei, ZTE U.S. inroads
+2012-10-08 18:46:00.0
+(Reuters) - U.S. telecommunications operators should not do business with China's top network equipment makers because potential Chinese state influence on the companies poses a security threat, the U.S. House of Representatives Intelligence Committee said in a report on Monday.
+The report follows an 11-month investigation by the committee into Huawei Technologies Co Ltd and its smaller rival, ZTE Corp.
+The companies have been fighting an uphill battle to overcome U.S. lawmakers' suspicions and expand in the United States after becoming key players in the worldwide market.
+The House Intelligence Committee's bipartisan concerns are bound to set back the companies' U.S. prospects and may also lead to new strains in trade ties between the United States and China, the world's two biggest economies.
+Committee Chairman Mike Rogers, at a press conference to release the report, said companies that had used Huawei equipment had reported "numerous allegations" of unexpected behavior, including routers supposedly sending large data packs to China late at night.
+The panel cited what it called long-term security risks supposedly linked with the companies' equipment and services. It did not provide any hard evidence to back up its concerns, at least not in the unclassified version of the report.
+Rogers, a Michigan Republican who is a former FBI agent, said lawmakers' concerns had been heightened by what he and the panel's top Democrat, C.A. Ruppersberger of Maryland, described as the companies' lack of full cooperation with the investigation.
+If the committee's warnings about doing business with Huawei and ZTE prompt the Chinese government to get out of the business of cyber espionage, a growing U.S. concern, "then that's great," he added.
+The committee recommended that the Committee on Foreign Investment in the United States, an inter-agency group that evaluates the national security risks of foreign investments, should block any deals involving Huawei or ZTE.
+Government contractors and private-sector companies should seek other vendors for their network equipment, the panel said.
+Rogers, responding to a question at the press conference, stopped short of urging a U.S. boycott of mobile phones and other handheld devices made by Huawei and ZTE.
+The panel's warning pertains only to devices that involve processing of data on a large scale, he said, not Huawei- and ZTE-made mobile phones.
+Employee-owned Huawei is the world's second-biggest maker of routers, switches and other telecommunications equipment after Sweden's Ericsson. ZTE ranks fifth.
+The panel said it had received credible allegations suggesting Huawei may be guilty of bribery and corruption, discriminatory behavior and copyright infringement.
+Such allegations will be referred to the Justice Department and Department of Homeland Security for investigation, the panel said. A spokesman for the Justice Department, Dean Boyd, declined to comment.
+'RUMORS AND SPECULATIONS'
+The committee's warning comes as Huawei weighs a possible initial public offering, sources said, as part of an effort to overcome suspicions that have all but blocked its U.S. efforts, including business tie-ins.
+Huawei denounced the findings, which it said "employs many rumors and speculations to prove non-existent accusations."
+"We have to suspect that the only purpose of such a report is to impede competition and obstruct Chinese (telecom) companies from entering the U.S. market," Huawei said.
+ZTE, in a newly released copy of a letter to the committee, said it "profoundly disagrees" with allegations that it is directed or controlled by the Chinese government.
+"ZTE should not be a focus of this investigation to the exclusion of the much larger Western vendors," it said.
+Zeus Kerravala, a networking equipment analyst at ZK research, said the effect of the congressional probe was to hand the market to Ericsson and Altactel-Lucent because he does not see any U.S. firm able to compete, for instance, with wireless technology.
+ZTE's Hong Kong-listed shares fell as much as 3.4 percent early on Monday.
+Huawei's U.S. sales totaled $1.3 billion last year, a small fraction of its worldwide sales of $32.4 billion. Handheld devices accounted for about three-fourths of Huawei sales in the United States last year, including via T-Mobile, AT&T and Sprint.
+ZTE's U.S. telecom infrastructure equipment sales last year were less than $30 million. In contrast, two of the larger Western vendors alone had combined U.S. sales that topped $14 billion, ZTE has said, alluding to Espoo, Finland-based Nokia Siemens Networks and Paris-based Alcatel Lucent.
+Huawei and ZTE, which are both based in Shenzhen, China, are rapidly becoming "dominant global players" in the telecommunications market, the report said. It noted that telecoms are intertwined with computerized controls for electric power grids; banking and finance systems; gas, oil and water systems; and rail and shipping.
+The National Counterintelligence Executive, a U.S. intelligence arm, said in a landmark public report a year ago that "Chinese actors are the world's most active and persistent perpetrators of economic espionage."
+China has also been a frequent target on the campaign trail, with President Barack Obama and Republican challenger Mitt Romney both saying the United States needs to get tougher on China for alleged abusive trade practices.
+The committee's report criticized Huawei and ZTE for failing to answer questions or provide documentation regarding their business activities in Iran. In the case of ZTE, the report said the company "consistently declined to comment on recent media reports that ZTE had sold export-controlled items to Iran."
+Reuters reported in March and April that ZTE had sold banned U.S. computer equipment to Iran's largest telecom firm. ZTE also agreed last year to ship millions of dollars worth of additional U.S. tech products to a unit of the consortium that controls the telecom firm. The Reuters stories have sparked investigations by the Commerce Department and the Federal Bureau of Investigation.
+In the wake of those allegations, Cisco Systems has ended a longstanding sales partnership with ZTE Corp.
+"MEANS, OPPORTUNITY, MOTIVE"
+Huawei and ZTE may not be the only companies that present a risk to U.S. infrastructure, the committee's report said, but they are the two largest Chinese-founded, Chinese-owned companies seeking to market critical network equipment in the United States.
+Beijing has the "means, opportunity and motive" to use them to its own ends, it added.
+In 2008, Huawei and private equity firm Bain Capital were forced to give up their bid for 3Com Corp after a U.S. panel rejected the deal because of national security concerns. Then in 2011, the company was forced to relinquish plans to buy some assets from U.S. server technology firm 3Leaf after the Committee on Foreign Investment mandated that Huawei divest certain parts of the deal.
+The company has brought on seven firms registered to lobby U.S. lawmakers, including APCO, Doyce Boesch and Fleishman-Hillard, according to forms filed under the lobbying disclosure act. That is up from four firms in 2011, two in 2010 and one in 2009.
+(Additional reporting by Chyen Yee Lee, Diane Bartz, Steve Stecklow and Aruna Viswanatha; Editing by John Wallace and Leslie Adler)
+                                                                                                                                                                                                                                                                                                                                                        
+Time for a reality check. China already controls much of America. Without China building Apple¡¯s products, the company would be smaller than a dried kernel in the middle of a drought crippled corn field.
+Time for a reality check. China already controls much of America. Without China building Apple¡¯s products, the company would be smaller than a dried kernel in the middle of a drought crippled corn field.
+Where is the stuff you buy made ¡ª and do you really care?
+Better to sell American companies to China and keep existing jobs here. Once they own, Chinese companies are unlikely to outsource offshore.
+Oct 07, 201212:43am EDT--
+Oct 08, 20121:38am EDT--
+I don¡¯t know whether Huawei poses a threat to the security of communication industries of US. However, there is one thing I am pretty sure of. The equipment such as internet router supplied by Huawei capable of ¡°deep packet inspection¡± is an integral part of the ¡°Great Firewall of China¡±. They filter the internet communication of ordinary Chinese every day and deny their freedom to access the internet information.
+Oct 08, 20123:26am EDT--

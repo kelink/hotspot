@@ -1,0 +1,15 @@
+HP says products may have been sold to Syria by others
+2012-11-23 17:37:00.0
+(Reuters) - Hewlett Packard Co said in a letter made public on Friday that its products could have been delivered to Syria through resellers or distributors, but the world's largest PC maker affirmed it did not sell directly to the country.
+The letter was a response to a request from the U.S. Securities and Exchange Commission's Office of Global Security Risk that asked whether HP's products were sold in countries where they would be subject to U.S. sanctions.
+"We are aware of November 2011 news reports that your equipment was installed by the Italian company, Area SpA, in Syria as part of a nationwide surveillance and tracking system designed to monitor people in that country," the SEC wrote in its request.
+"Please describe to us the nature, duration, and extent of your past, current, and anticipated contacts with Syria and Iran, whether through subsidiaries, distributors, resellers, vendors, retailers, or other direct or indirect arrangements."
+In a letter dated October 9, HP said it had not authorized the sale of products to Syria.
+Instead, HP said the Italian surveillance company had likely obtained its products from an HP partner that was unaware of their ultimate destination.
+In another October 9 letter to the agency, HP said it ended its contract with Area SpA in April.
+HP's overseas subsidiaries ended sales of printers and related supplies to third-party distributors and resellers with customers in Iran in early 2009, the company wrote.
+But because its products are often sold by others through indirect channels without its knowledge or consent "it is always possible that products may be diverted to Iran or Syria after being sold to channel partners, such as distributors and resellers," HP said.
+Reuters has documented how banned computer equipment from U.S. companies has made its way to Iran's largest telecommunications company through China-based ZTE.
+HP said in both letters that it would continue to work with ZTE, but it had conducted an internal investigation relating to an alleged sale of its products to MTN Irancell, Iran's second largest mobile carrier.
+The company was also asked about EDS - an IT outsourcing company that HP bought in 2008 - and any activity in Iran, Syria and Sudan.
+HP is eager to avoid more negative publicity after surprising the market on Tuesday with an $8.8 billion write-down on its $11.1 billion acquisition of software group Autonomy, accusing the British company of improper accounting to inflate sales.

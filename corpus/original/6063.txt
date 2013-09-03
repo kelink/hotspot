@@ -1,0 +1,17 @@
+Timeline: China approves Google search page
+2010-07-09 10:44:00.0
+(Reuters) China gave Google Inc approval to operate its Chinese search page, averting a possible shutdown of its flagship site in the world's biggest Internet market.
+Following are some key developments in Google's bumpy foray into China:
+2002 - Google.com becomes temporarily unavailable to Chinese users, with interference from domestic competition suspected.
+July 2005 - Google hires ex-Microsoft executive Lee Kai Fu as head of Google China. Microsoft sues Google over the move, claiming Lee will inevitably disclose proprietary information to Google. The two rivals reach a settlement on the suit over Lee in December.
+Jan 2006 - Google introduces Google.cn, its China-based search page that, in accordance with Chinese rules, censors search results. Google says it made the trade-off to "make meaningful and positive contributions" to development in China while abiding by the country's strict censorship laws.
+March 2009 - China blocks access to Google's YouTube video site.
+June 2009 - A Chinese official accuses Google of spreading obscene content over the Internet. The comments come a day after Google.com, Gmail and other Google online services became inaccessible to many users in China.
+Sept 2009 - Lee resigns as Google China head to start his own company. Google appoints sales chief John Liu to take over Lee's business and operational responsibilities.
+Oct 2009 - A group of Chinese authors accuses Google of violating copyrights with its digital library, with many threatening to sue.
+Feb 2010 - The New York Times reports the hacking attacks on Google had been traced to two schools in China, citing people familiar with the investigation. The schools deny involvement.
+March 22, 2010 - Google announces it will move its mainland Chinese-language portal and begin rerouting searches to its Hong Kong-based site.
+March 30, 2010 - Google's services are partially blocked, but the company doesn't know if the stoppage was a technical glitch or a deliberate move by the government.
+June 30, 2010 - China issues discloses a preliminary list of companies permitted to get a license. Google is not on it. The company says it will stop rerouting China users to its uncensored Hong Kong site within 48 hours.
+July 9, 2010 - China issues license for Google's search page.
+(Compiled by Melanie Lee; Editing by Derek Caney)

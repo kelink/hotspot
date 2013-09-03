@@ -1,0 +1,16 @@
+WiMax industry hoping for economic stimulus boost
+2009-06-03 10:08:00.0
+(Reuters) - Companies working on Wimax high-speed mobile data technology are hoping government stimulus packages inject billions of dollars into wireless broadband, boosting take-up of the new technology.
+WiMax has been competing for the status of next generation mobile technology, but has largely lost the battle to Long Term Evolution (LTE), which has become mobile operators' favoured solution as it can be bolted on to existing systems.
+Many analysts say WiMax is destined to be a niche player in a market expected to total $45 billion in 2009, according to research group Gartner.
+"One of the biggest things people are doing because of the crisis is stimulus packages for rural broadband -- in the U.S. alone (the spend is) $7.2 billion," said Tzvika Friedman, chief executive at Alvarion (
+), a leading WiMax equipment maker.
+"That's one of the big advantages of WiMax now, as much as we suffer from the economic crisis, we also enjoy it," Friedman told Reuters on the sidelines of a WiMax conference in Amsterdam, estimating over $1 billion could be spent on WiMax.
+Ron Resnick, president and chairman of the WiMax Forum, the main industry group, said governments recognised investing in broadband is important for economic recovery.
+"The most appropriate way of doing it (investing) quickly is probably wireless," said Andy McKinnon, who works for Motorola's MOT.N 4G unit.
+WiMax stands to benefit from the fact that governments want to spend on stimulus measures now, with few other wireless broadband technologies available for quick deployment. "Other technologies are not there yet and they cannot fix the problem," Motorola's McKinnon added, referring to LTE, which is expected to be available as early as next year.
+Although WiMax is available to 430 million people, only 3.6 million people had subscribed to the service at the end of 2008, according to data from researcher Informa.
+"There is a place for WiMax but it will be very niche as a global mobility access technology," said Gartner analyst Sylvain Fabre. "WiMax will be a minor mobile technology compared to LTE which is going to be the next dominant access technology worldwide.
+"It may be niche but it is also a completely new market, which eventually could become as big as the current mobile market," said Dr. Hung Song, vice president of Samsung Electronics' (
+China's largest telecom gear maker Huawei Technologies [HWT.UL] said on Monday it expected WiMax equipment sales to grow in the next 19 months to $1 billion, especially in emerging markets where fixed line networks are poorly developed. [ID:nPEK76657]
+"They are spending it to get us out of the recession, so logically you would think some of that money would end up with WiMax," said Barry West, president of wireless high-speed services provider Clearwire CLWR.O. (Editing by Tarmo Virki and David Holmes) (harro.tenwolde@reuters.com; Reuters Messaging: harro.tenwolde.reuters.com@reuters.net; +31 20 504 5017))

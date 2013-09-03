@@ -1,0 +1,16 @@
+Lockheed says F-35 classified data not breached
+2009-04-21 17:54:00.0
+(Reuters) - The Pentagon and Lockheed Martin Corp, its top supplier, discounted a published report that cyber spies had stolen secrets of the F-35 Joint Strike Fighter being built for the United States and nearly a dozen allies.
+"I'm not aware of any specific concerns," Bryan Whitman, a Defense Department spokesman, told reporters of the reported compromise of the Pentagon's costliest arms acquisition plan.
+He spoke after the Wall Street Journal said on Tuesday that "terabytes" of the $300 billion program's design and electronic systems data had been grabbed in raids identified by the paper as appearing to have started in China.
+The Journal cited current and former officials said to be familiar with the purported computer intrusions, which if confirmed could make it easier to defend against the F-35. It noted it is tough to know the origin of cyberspying for sure because it is relatively easy for experts to mask tracks online.
+The radar-evading F-35 is being developed with financing from the United States, Britain, Italy, the Netherlands, Turkey, Canada, Australia, Denmark and Norway. Other projected early buyers include Israel and Singapore.
+Lockheed Martin's chief financial officer, Bruce Tanner, said: "We actually believe the Wall Street Journal was incorrect in its representation of successful cyber attacks on the F-35 program."
+"I've not heard of that, and to our knowledge there's never been any classified information breach," he said during a teleconference on the company's latest earnings.
+Tanner acknowledged attacks on Lockheed Martin's systems "are continuous and we do have stringent measures in place to both detect and stop these attacks."
+Lockheed's chief subcontractors on the F-35 are Northrop Grumman Corp and BAE Systems Plc. Representatives of Northrop and BAE referred questions to Lockheed.
+Air Force Lieutenant General Robert Elder, who was the first commander of Air Force Network Operations and led the development of the Air Force's cyberspace mission, said one potential problem was the huge number of suppliers networked in the F-35 program.
+"Any time you share information, then you run the risk, quite frankly ... that you might share it with someone you don't want to be able to share that information with," he told reporters at a breakfast session.
+Earlier this month, the Wall Street Journal reported that cyberspies had penetrated the U.S. electrical grid and left behind software program that could be used to disrupt the system.
+(Additional reporting by David Morgan, Karen Jacobs, Andrew Gray)
+(Writing by Jim Wolf; Editing by Phil Berlowitz)

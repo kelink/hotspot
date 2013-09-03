@@ -1,0 +1,17 @@
+U.S. company tells PC makers: halt China anti-porn software
+2009-06-18 18:51:00.0
+(Reuters) - A California company accusing a Chinese rival of stealing its code for anti-pornography software has demanded that U.S. PC makers Dell, Hewlett-Packard and Gateway stop shipping computers loaded with the program "Green Dam".
+Solid Oak Software Inc, which said it found pieces of its CyberSitter Internet-filtering software in a similar Chinese program, said it had faxed cease-and-desist letters to Dell, HP and Gateway, and to the U.S. units of Sony, Toshiba, Acer, and Lenovo.
+Solid Oak executives have warned that they may seek a court injunction to try to stop PC manufacturers from shipping to China machines loaded with "Green Dam", developed by Jinhui Computer System Engineering Inc and now mandatory on PCs sold in China, the world's third-largest economy.
+"With the cease-and-desist letters, we've asked them to not ship the units as well as make accounting for any units that had been shipped," Solid Oak spokeswoman Jenna DiPasquale said.
+"We're really hoping to have an amicable" resolution," DiPasquale said. "This isn't their fault, it's just something they've been asked to do."
+The Chinese government has required that all new computers made or shipped by July 1 come with "Green Dam" pre-installed, to protect children against pornography. "Green Dam" filters out words, images and Web addresses.
+Jinhui has denied stealing anything, but Solid Oak has contended that some of the stolen content included a list of terms to be blocked and instructions for updating the software.
+Dell spokesman David Frink said "along with the rest of the industry and relevant trade associations, we're still reviewing the 'Green Dam' policy initiative and working with government officials and others to understand its application."
+The U.S. Trade Representative in April put China and Russia at the top of a list of countries with the worst record on preventing piracy and counterfeiting of U.S. goods. China also made the top of the USTR's priority watch list for the fifth straight year.
+Critics have said that China's "Green Dam" initiative raises issues of cybersecurity and Internet freedom.
+Analysts said the action also raised concerns among U.S. PC makers, which fear they could face criticism in the West if they comply with the order, or lose market share in China if they do not.
+China's PC market is forecast to be the world's largest by 2011, with nearly 50 million units shipped annually by 2012.
+DiPasquale said Solid Oak might be open to some sort of licensing agreement with PC producers, but that would need to be discussed.
+She said her company had engaged "independent researchers" to monitor and examine the Chinese software, but had not yet tried to contact Jinhui directly. "We're taking this a step at a time," she said.
+(Reporting by Edwin Chan and Gabriel Madway; Editing by Toni Reinhold)

@@ -1,0 +1,16 @@
+TREASURIES-Debt prices tread water; equities offset data
+2009-11-13 14:51:00.0
+(Reuters) - U.S. government debt prices were flat on Friday as resurgent equities curbed the safe-haven allure of Treasuries and investors became reluctant to make decisive bets ahead of next week's deluge of economic data.
+) rekindled demand for U.S. stocks, a day after the Dow snapped a six-day string of gains. For the latest U.S. stock report, see [.N]
+An unexpected drop in a measure of November U.S. consumer confidence and a wider U.S. trade deficit in September gave Treasury prices a boost earlier. Imports grew 5.8 percent in September, the biggest monthly gain since March 1993. [ID:nN13459743]
+But the uptick in debt prices was short-lived as investors saw the data affirming the notion of an anemic U.S. economic recovery, which will let the Federal Reserve stick to its ultra-loose monetary policy to foster growth.
+"We didn't have a lot of tier-one economic data this week. There's really just a lack of interest," said Mary Ann Hurley, vice president of fixed-income trading at D.A. Davidson & Co in Seattle.
+"Next week we get back into an environment where we have a lot of economic stats and I think that we'll give us more direction, plus it's a full-week, unlike this holiday abbreviated one," she said.
+All that the market had to rely on for direction this week were the three auctions -- of 3-year, 10-year and 30-year government paper -- for the Treasury refunding program.
+As of Friday afternoon, the 10-year yield was on track for a 6-basis-point fall for the week in the wake of solid bidding for a record $81 billion in supply.
+Firm demand at the government's November refunding signaled investor confidence in the United States' credit-worthiness even as the country grapples with ballooning deficits and the costs of bailouts and stimulus.
+Against this backdrop, traders are monitoring U.S. President Barack Obama's visit to Japan and China, two of the biggest U.S. trading partners and holders of Treasuries. For more on Obama's nine-day trip to Asia, see [ID:nOBAMAASIA]
+The price of the benchmark 10-year note US10YT=RR was up 1/32, putting the yield, which moves inversely to their price, at 3.44 percent. The 30-year Treasury bonds US30YT=RR, the U.S. government's longest maturity, yielded 4.38 percent.
+The price of the two-year Treasury note US2YT=RR , which is more sensitive to expectations of changes in the federal funds rate, was unchanged, putting the yield at 0.82 percent.
+The Reuters/University of Michigan index on U.S. consumer sentiment unexpectedly fell in early November. The data reinforced underscored the need of continued monetary and perhaps more fiscal stimulus to put the world's largest economy on a sustainable recovery and forestall a double-dip recession. [ID:nN13463684]
+Next week's economic reports include readings on October retail sales, the Producer Price Index, industrial production, housing starts and leading indicators. For a full economic diary, see [ECI/US]

@@ -1,0 +1,20 @@
+Q+A: China backs down from Internet filter plans
+2009-08-14 09:32:00.0
+(Reuters) - China has confirmed its back down from a plan to preinstall controversial "Green Dam" filtering software on all personal computers sold in the country, though it will still be rolled out in schools and Internet bars.
+Li Yizhong, minister of industry and information technology, said on Thursday that the unveiling in June of plans to put the software on all computers -- which provoked a huge international outcry -- had "not been thoughtful enough."
+"We fully respect everyone's freedom of choice, and we absolutely will not force its installation on the computers of all consumers," he told a news conference in Beijing.
+"We still want to install it on computers in schools, Internet cafes and public places," he added.
+WHAT WERE THE OBJECTIONS TO GREEN DAM?
+It was also condemned as badly designed even for those looking to protect children. With an image scanner activated the software blocks harmless images including a film poster for cartoon cat Garfield, but with the filter off, users can still reach graphic pornography sites.
+WHEN DID THE CONTROVERSY BEGIN?
+An international uproar followed with opponents ranging from heavyweight trade partners to human rights groups and bloggers weighing in with concerns over security, privacy and user choice.
+Just hours before the deadline, the government said it had delayed the mandatory rollout indefinitely.
+WHY DOES BEIJING CONTROL THE INTERNET?
+China's government uses Internet controls to prevent its citizens accessing online information that it considers morally corrupting or politically sensitive, or to rein in potentially destabilizing online trends like fervent nationalism.
+Beijing uses a series of measures including a firewall that blocks objectionable overseas sites, content guidelines for online companies and Internet service providers and an army of censors who trawl the web for controversial postings.
+WHO RUNS THE FIREWALL?
+The censorship system is run in part by the government and security services but also relies on self-regulation by service providers and online companies under government guidance. Foreign companies seeking to do business in China, which has the world's biggest online community, have faced charges of bowing to censorship rules in their hunt for market access.
+IS IT POSSIBLE TO GET AROUND THE FIREWALL?
+Yes. The firewall is far from watertight and many Internet users get around it with relatively simple technology, including anonymous proxy servers that cloak a user's identity.
+However, these often involve a cat and mouse game with authorities, who block sites providing free proxy servers.
+Bloggers also use euphemism and code. Inspired by top leaders emphasis on a "harmonious society," for instance, they discuss censorship of postings by saying they have been "harmonized."

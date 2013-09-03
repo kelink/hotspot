@@ -1,0 +1,11 @@
+GoDaddy plans to stop China domain registrations
+2010-03-24 15:51:00.0
+(Reuters) - Internet domain company GoDaddy.com said it planned to stop registering domain names in China, joining Google Inc (
+"We believe that many of the current abuses of the Internet originating in China are due to a lack of enforcement against criminal activities by the Chinese government," Christine Jones, Go Daddy Group Inc general counsel, told a congressional commission hearing on Wednesday.
+She said GoDaddy had repelled dozens of extremely serious attacks that appear to have originated in China in the first three months of 2010. GoDaddy would, however, continue to manage .cn domain names of existing customers.
+"Our experience as been that China is focused on using the Internet to monitor and control the legitimate activities of its citizens, rather than penalizing those who commit Internet-related crimes," Jones said.
+Google said in January that it had suffered a highly sophisticated hacking attack that it said originated from China, and that it might quit China over the attack and censorship of search queries from China.
+It made good on that threat on Monday, announcing it had closed its China-based search service and was redirecting Web searchers to Hong Kong, a part of China where rules are slightly different from the mainland.
+Nevertheless, Google told the Congressional Executive Commission on China that it was seeing intermittent censorship on some Internet queries done from mainland China,
+"We are well aware that the Chinese government can, at any time, block access to our services," Alan Davidson, Google's director of public policy, said in prepared testimony.
+(Reporting by John Poirier; additional reporting by Diane Bartz; Editing by Tim Dobbyn)

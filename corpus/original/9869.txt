@@ -1,0 +1,22 @@
+Collaboration tools worth the investment, survey says
+2009-10-14 20:08:00.0
+Collaboration tools worth the investment, survey says | Reuters
+Track China's Leaders
+Collaboration tools worth the investment, survey says
+Wed  EDT
+A recent global survey of business and IT managers found that their companies got back benefits perceived as equal to four times their investment, on average, in unified communication and collaboration technologies.
+The online survey, done in May, looked at deployments of networking tools including voice over IP phones, videoconferencing and instant messaging to support distributed work forces and teleworkers in 10 countries. Sponsored by Cisco Systems Inc. and Verizon Communications Inc., the study was conducted by Frost & Sullivan, a technology analysis firm, and involved 3,662 business and IT managers.
+Only 44% of the managers surveyed had deployed tools for better collaboration, but 80% of those who have not deployed them said they planned to deploy them in two to three years.
+The range of unified communications and collaboration tools included in the survey was broad, but generally audio- and Web- conferencing tools provided the greatest benefits to companies, followed by videoconferencing (sometimes at the desktop instead of in a room-sized location), and then instant messaging, wikis and blogs, said Bill Versen, director of global unified communications and collaboration at Verizon, in an interview.
+The survey took into account other collaboration tools as well, such as user presence on a device, document sharing, integration of voice, e-mail and instant messaging and desktop telephone management features from mobile phones (sometimes called fixed-mobile convergence).
+For the study, the typical return on investment concept used in assessing a business investment was replaced with what Frost & Sullivan called a return on collaboration. The ROC was quantified in terms of how much "improvement" an organization made (as judged by the person filling out the survey) in a functional area, such as marketing or research and development.
+While the ROC average was rated 4.2 times the collaboration investment across six business functions in all the companies surveyed, the benefits were highest for sales, research and development and marketing, with human resources the lowest, the study found. Investor relations and public relations fell in the middle.
+In R&D, more than 40% of managers said deploying advanced collaboration tools enabled products to be developed faster, with an improved chance of success in the market, higher quality and lower overall cost of development. In sales, more than 40% of those surveyed said the tools improved the quality of communications with customers, improved the success of sales efforts and reduced the cost of sales and the sales cycle time.
+The returns were much higher for larger companies as compared to companies with fewer than 1,000 employees.
+The survey also found that collaboration technologies were more prevalent in financial services, high technology businesses and professional services.
+More than 90% of IT managers said VoIP quality was as good or better than a traditional wired system. In China, nearly 90% of organizations surveyed used VoIP in some form as their primary phone service.
+A majority of respondents said collaboration tools were helping them balance work with their personal lives, giving them more of a sense of control.
+Nearly 60% of those surveyed said that despite modern tools, there are still times they don't want to be reached.
+Almost half of respondents said their companies have a formal telecommuting policy in place, although only 22% telecommute every day. India came out as the most telcommuting friendly country (with 59% of organizations saying they had a formal policy) , followed by Hong Kong (54%), and the U.S and China tied for third (47%).
+More than half said the need to reduce their organization's carbon emissions was important in deciding to adopt collaboration technology.
+Cisco sells an array of collaboration technologies and Verizon offers consulting and integration services to corporations on communications. One example of the use of collaboration tools was given today when the two companies said that First American Corp., a provider of business information, is using Verizon to deploy Cisco TelePresence rooms in three locations, First American's Santa Ana, Calif., corporate headquarters as well as its offices in Westlake, Texas, and Bangalore, India.

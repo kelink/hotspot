@@ -1,0 +1,17 @@
+UPDATE 1-U.S. company accuses China of stealing software
+2009-06-13 17:38:00.0
+(Reuters) - A California software publisher will seek an injunction preventing U.S. companies from shipping computers with Chinese anti-pornography software it says was stolen, the company's president said on Saturday.
+Solid Oak Software Inc said it found pieces of its CyberSitter Internet-filtering software in the Chinese program, including a list of terms to be blocked and instructions for updating the software.
+Brian Milburn, president of the privately owned, Santa Barbara-based company, said it was studying its legal options but would seek an injunction against further shipment to China of computers using the suspected pirated software.
+"I look at it this way, if we were shipping iPods over to China and China says, 'We want all these pirated songs on the iPods when you ship them to us,' don't you think somebody would be up in arms about that?" Milburn said.
+"It's the same thing. They are stealing proprietary copyrighted material from us, sending it over to the U.S. and saying, 'We want this on all the computers you send us.'" Milburn said. "Just because we are a small company doesn't make the theft of CyberSitter any less (wrong)."
+The Chinese company that made the filtering software, Jinhui Computer System Engineering Inc, denied stealing anything to The Wall Street Journal, which first reported the story.
+"That's impossible," Jinhui's founder, Bryan Zhang, told the newspaper.
+The Chinese government has required that all new computers made or shipped by July 1 have "Green Dam" software pre-installed, to protect children against pornography.
+Critics have said China's move raises issues of cybersecurity and Internet freedom. Analysts said the action had also raised concerns among U.S. PC makers, including Dell Inc (
+), which fear they could face criticism in the West if they comply with the order.
+China's PC market is forecast to be the world's largest by 2011, with nearly 50 million units shipped annually by 2012.
+Milburn said his firm received an anonymous e-mail on Friday claiming that Green Dam may contain parts of his company's code. He said he and his engineers compared the two programs and found many similarities.
+"We found actual proprietary code areas within the Green Dam program itself which are incredibly suspicious because they use our proprietary encryption methods," he said. "There's a lot more to it than just a list of bad words."
+According to some lawyers, Solid Oak faces a tough legal fight because the software will be sold only in China, the Journal said. The question would have to be settled by a Chinese court under Chinese law, one lawyer said.
+The incident could add to an outcry over the lack of transparency in the Chinese government's decision to choose the Green Dam program to implement its filtering requirement. (Additional reporting by Matthew Lewis in Chicago; Editing by Peter Cooney)

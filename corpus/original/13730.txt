@@ -1,0 +1,25 @@
+Falun Gong seeks US support in Internet censor fight
+2009-07-20 04:19:00.0
+(Reuters) - Ten years after a government crackdown drove it underground in China, Falun Gong is trying to position itself to get U.S. government funds to help defeat Internet censors worldwide.
+The spiritual group's efforts to stay in contact with its members in China spawned a sophisticated effort to evade Chinese censors, which has now expanded enough that it was used by Iranian protesters to get around government controls in June.
+A decade since the crackdown began, Falun Gong has spread overseas. There it has taken on a more political agenda against the Communist Party of China, which in turn still fears its organisational power.
+At the centre of the effort is the Global Internet Freedom Consortium (GIFC), made up of about 50 software engineers and Falun Gong practitioners, said Zhou Shiyu, a faculty member at Rutgers University in New Jersey and spokesman for the group.
+"We started out to stop the persecution but we helped people in free societies, which we are very proud of, because we know the pain of people in these societies," said Zhou.
+GIFC didn't get any the $15 million earmarked by the U.S. Congress in 2008 to support efforts to defeat Internet censors, in part because of Falun Gong's anti-China stance.
+Possibly in an effort to counter that image, the "about us" section of GIFC's website doesn't mention Falun Gong -- a group better known for its protests in New York and Hong Kong with graphic illustrations of alleged torture than for its technical wizardry.
+"There's a lot of politics over who gets the next allocation of Congressional funding," said Rebecca MacKinnon, who teaches journalism and media studies at the University of Hong Kong.
+"Because GIFC didn't get the last round, they are fighting hard for this one."
+Many students and tech-savvy youth bypass government Internet controls with virtual private networks and other work-arounds. But GIFC's vision is to allow even the non-savvy to break through China's controls, rendering them ultimately ineffective.
+"Our goal is not this elite user. We want to make this massive and decisive, to tear down the wall," Zhou said.
+China began arresting key Falun Gong leaders on July 20, 1999. Two days later, it launched a propaganda blitz against the group, which it has banned as a "cult".
+Some on the mainland still practise quietly, although others are subject to detention or harassment. Falun Gong says over 3,000 members have died in custody over the past 10 years.
+The group, which had already used emails to organise followers in an unusual mass protest, began its Internet effort in late 1999, a few months after the crackdown.
+"It became a cat-and-mouse game on the Internet," Zhou said.
+By 2003, China set up its Golden Shield programme, to channel Internet traffic and aid monitoring and filtering content. GIFC's platform and other VPN providers have become necessary tools for Chinese seeking to circumvent the controls.
+This summer, China backed down on plans to mandate all new computers come with Green Dam filtering software, which Chinese officials says combats porn. Rights groups said it potentially blocked any politically sensitive content at the user level.
+Falun Gong's software, which is relatively easy to install, is available through a dynamic URL, making it more difficult for Chinese filters to identify and block. Once installed, it allows users to navigate to blocked sites without being detected.
+Some technology specialists say GIFC's platform is not as transparent as competing software, and lacks privacy rules governing the user data that is collected.
+GIFC estimates a million people a day use its software in China, and 400,000 in Iran. It is also popular in the United Arab Emirates, Saudi Arabia, Syria, and Myanmar, Zhou said.
+After GIFC launched a Farsi service, the surge in traffic crashed its servers. The group first suspended services to Iran, then decided to divert resources after the Tehran protests began.
+"It's unfortunate, we have really run out of resources. We would like to help but we are limited," Zhou said. "People worked overnight just to keep it going."
+No matter how fancy, no programme could get around China's Internet controls after July 5 riots in Urumqi, when Uighurs turned against the majority Han Chinese. China has simply cut off all Internet services in the region since then. (Editing by Benjamin Kang Lim)

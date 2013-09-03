@@ -1,0 +1,29 @@
+Web tools help protect human rights activists
+2009-08-19 14:20:00.0
+Track China's Leaders
+Our day's top images, in-depth photo essays and offbeat slices of life. See the best of Reuters photography.
+Our day's top images, in-depth photo essays and offbeat slices of life. See the best of Reuters photography.
+An Internet user tries to log onto social networking site Facebook in Tehran May 25, 2009. Credit: Reuters/Morteza Nikoubazl
+Wed  EDT
+Now, human rights activists are looking to a new generation of Internet privacy tools to keep companies from gathering such data, hoping that it will protect dissidents like Shi.
+One, called Tor, scrambles information, then sends it over the Web. It hides the user's location and gets past firewalls. Those features make it popular with activists in countries like China and Iran.
+"Tor is a tunnel. What you send into it comes out the other end, untouched," said Andrew Lewman, executive director of the Tor Foundation, which is funded by the U.S. government.
+Tor also can protect against identity theft and monitoring by parents, suspicious spouses and bosses. It may even be able to evade the warrantless wiretapping program started in the United States following the September 11 attacks.
+When a user shuts down a browser running on Tor, all information exchanged during the Web session is deleted.
+The U.S. government is one of Tor's biggest financial backers. It contributed $250,000 of the $343,000 in income the nonprofit reported in 2007, the most-recent year for which financial data is available.
+"We are trying to encourage a certain freedom of the Internet," said Ken Berman, director of information technology at the U.S. Broadcasting Board of Governors, which oversees Voice of America.
+CHINA, IRAN
+Tor use has risen in China as authorities block access to sites that the government has banned for political reasons. They include Google's e-mail service, Lewman said.
+"People who were never were never concerned about censorship suddenly had it thrown in their face when they couldn't get to Gmail anymore," Lewman said. "Average people said 'How do I get around this?'"
+In May, ahead of the 20th anniversary of the Tiananmen Square crackdown, the Chinese government also blocked access to Twitter and Microsoft Corp's Hotmail.
+Connections to Tor from Iran surged five-fold in June as protest organizers used social network services Facebook and Twitter to coordinate demonstrations in the wake of the country's disputed presidential election.
+"These are great features. These are exactly the kinds of things Iranians need," said Sam Sedaei, an independent economic researcher who studies human rights in Iran.
+"As activists, we want anonymity and security. The challenge is to keep up with the new technology," said Human Rights in China Executive Director Sharon Hom.
+Tor runs on a free software package available on the group's website,
+The service connects a user to a second PC that links to a third computer, which does not know the location of the first machine. When the data stream hits the Internet, it is impossible to trace the identity of person accessing the Web.
+One drawback that has hurt adoption is speed. Not all users volunteer to let traffic flow through their computers, which makes the service far slower than regular Web browsing.
+It has another. Tor's features can help criminals evade detection as they use the Web for activities ranging such as spam, identity theft or pedophilia.
+At the same time, police can use it to cloak their identities when they go undercover to conduct online stings.
+Tor competes with several other technologies, including one known as Freegate, which China's banned Falun Gong movement developed to allow its members to communicate in secrecy.
+Freegate runs on a dedicated network paid for by a U.S.-based company that owns the product, Dynamic Internet Technology, which is run by members of Falun Gong.
+It distributes about 250,000 e-mails with Human Rights in China's electronic newsletter, about 80 percent of which make it past the censorship filters, according to Hom.

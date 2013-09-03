@@ -1,0 +1,34 @@
+Allure of R&D draws tech giants to India
+2009-07-10 14:29:00.0
+(Reuters) - As the world prepared for the launch of Intel's server processor Xeon 7400 last September, engineers in Bangalore -- dubbed the Silicon Valley of India -- were putting the finishing touches on what would become the company's best-performing server chip yet. The chip was designed end-to-end by Intel Corp's (
+Increasingly, the Indian arms of multinational tech giants are working on global brands such as Microsoft Corp's (
+) search engine Bing, its upcoming Windows 7 operating system and Google Inc's (
+The country, perceived as a necessary low-cost option only a few years ago, is fast becoming a destination for higher-end R&D work, with skilled engineering talent and India's own rising economic might adding to the appeal.
+While India may not yet have shrugged off its "cheap labor" tag and is periodically the target of populist rhetoric from Western politicians, for technology firms the country has new connotations.
+Faced with maturing home markets and aging workforces in the United States and Europe, companies are looking at India for a growing supplier base and young, agile workers.
+"Today if you were to ask any of the product companies if they could do without their India-based hubs, I think the answer would be no," said Noshir Kaka, director at McKinsey & Co, a global consultancy firm.
+"We're actually seeing the creation of new products and new services that may not have seen the light of day if we had only used a developed-market workforce for them," he said.
+Hewlett-Packard, which set up its India R&D center in 1989, started out with cost efficiencies in mind, said Rick Steffens, who heads its systems technology and software division.
+"As those teams started to get some experience and do more development, what we started noticing was that they were also capable of making changes to and enhancing the product."
+German software company SAP's (
+) plan to pump $1 billion into India between 2006 and 2010 is on track, said Kush Desai, managing director of SAP Labs India.
+"Germany's confidence in India has constantly risen, along with the experience that people have gained in their work over the years," Desai said.
+In 2006, Cisco (
+) established its Globalization Center East in Bangalore for, among other reasons, "its proximity to 70 percent of the world's population within a five-hour flight," said Chief Globalization Officer Wim Elfrink.
+"The focus is to tap the intellectual talent, growth opportunities and innovation," said Elfrink, who is based in Bangalore and reports to CEO John Chambers.
+So far, the company has filed more than 600 patents from India, Elfrink said.
+India's R&D labs are second only to the United States for many of these technology firms.
+But all is not rosy. As these companies spread their roots they face challenges, some of which are unique to the developing world.
+"If 10 companies of Microsoft's type of global product engineering want to do real core R&D work here, then do we have enough talent on the (university) campuses? Maybe not," said Srini Koppolu, managing director of the Microsoft India Development Center in Hyderabad.
+HP's Steffens said engineers who frequently change companies hamper their chances of developing niche technical knowledge.
+The difference between what was done offshore and what was done onshore is changing, said Vikas Saggi, an R&D expert at Bain & Co. "The gap is decreasing, but the gap is still there."
+And India, with an R&D market worth $6.5 billion, according to Saggi, has competition for those dollars.
+Giving India a run for its money are China, Russia and several Eastern European countries.
+"It is a very attractive destination, but it is certainly not the only destination that clients are looking at," McKinsey's Kaka said.
+WHAT'S NEXT?
+), through its Indian R&D lab, is seeking to drive down the cost of systems delivery by 30 percent to 50 percent over the next five years, while maintaining overall quality, an ambitious goal, said Vishwa Kiran, director of Accenture Technology Labs in Bangalore.
+Accenture's India R&D center, its fourth such lab after two U.S. centers and one in France, opened in November.
+"Over time we've become a larger portion of the R&D, and I think that will continue for the foreseeable future," HP's Steffens said.
+For companies that have just started more complex work in India, the Nano -- a $2,000 car launched by Tata Motors (
+"You're going to see a lot more Nanos -- essentially disruptive innovation driven by developing market conditions that actually causes or creates a product that can be a winner or a killer in the First World market," McKinsey's Kaka said.
+(Editing by Mike Miller and Anil D'Silva)

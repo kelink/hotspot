@@ -1,0 +1,13 @@
+Google accused of 'malicious revenge' in China
+2009-10-28 09:44:00.0
+Google accused of 'malicious revenge' in China | Reuters
+Track China's Leaders
+Google accused of 'malicious revenge' in China
+Wed  EDT
+The official newspaper of China's ruling communist party has accused Google of seeking "malicious revenge" after a malware warning appeared by one of its Web sites in Google's search results.
+The Google notice, which said the books section of the People's Daily site could contain malware, appeared last week and prevented some visits to the Web page because its link redirected to a Google warning, according to a local media report also posted by the People's Daily. A site representative was cited in the report as blaming "malicious revenge from Google" and saying the paper would take actions against such "vile behavior" by the company. The paper would not rule out legal action, the representative was cited as saying.
+The paper's statements are the latest negative press Google has received this year in China, where its share of the user search market began slipping in recent months. Chinese authorities and state media earlier this year slammed Google for allowing pornographic links to appear in its search results. Google's book scanning project has also come under fire in China in recent weeks as local authors have begun voicing concerns about copyright violation by the search engine.
+The revenge accusation is "wrong and without merit," a Google spokeswoman said in an e-mail. Google regularly scans the Web pages in its index and tacks warnings on those that appear to distribute malware. It deletes the warning if the malicious content is removed from a Web site, the spokeswoman said.
+"Our scanners have very high accuracy," she said. Attackers can sometimes place malware on a Web site without the knowledge of the site owner.
+Google was not displaying a malware warning for the People's Daily book news site on Wednesday, and its record for the site said no malware had appeared on the site in the last 90 days.
+The top headline on the book news site on Wednesday led to a collection of stories about local opposition to Google's book scanning program. "Is the Google library an angel or a devil?" read one headline near the top of the page.

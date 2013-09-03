@@ -1,0 +1,18 @@
+MONEY MARKETS-Dollar funding mkts improve, Korea basis tighter
+2009-05-12 02:47:00.0
+(Reuters) - Dollar interbank rates extended their creeping downtrend towards near-zero policy rates in Asia on Tuesday, reflecting relief over U.S. banks' stress tests and plans by some of the lenders to meet their capital shortfalls.
+Lending rates in U.S. dollars fell and the spread between those rates and expectations of policy rates, or overnight indexed swaps (OIS), fell to its lowest since mid-2008.
+The improvement in the dollar LIBOR came against a backdrop of bearishness in stock markets as investors mulled over China's disappointing trade data and economic indicators from the eurozone overnight.
+Traders said they expected credit spreads would not tighten any further, unless there was major news suggesting further strengthening of the financial sector or the economic situation.
+"It looks like 3-month LIBOR is expected to base around 0.85 percent," said one short-term rates trader in Singapore.
+In Singapore, 3-month dollars SIUSDD=ABSG are quoted at 0.91143 percent, down from 0.92357 on Monday and down 40 basis points (bps) from rates a month earlier. Six-month dollar SIBOR was quoted at 1.4298 percent, having fallen 50 bps in the past month.
+Eurodollar futures EDZ9 continued their steady uptrend, implying expectations for LIBOR to fall with time. December eurodollar futures were at 98.92, pricing 3-month LIBOR at 1.08 percent.
+The spread between LIBOR LIBOR= and 3-month OIS, the latter a measure of market expectation of policy rates, likewise narrowed to 72 bps, having come a long way from levels of 108 bps in October last year and yet far from the normal near-zero spreads before the financial crisis.
+In further evidence that dollar funding conditions have moved another step closer to becoming normal, the Bank of Korea decided not to rollover $2 billion of funds it had injected through swaps into the market, which are maturing on May 14.
+The Korean central bank has about $18.6 billion outstanding in swaps and loans to its banks, part of it lent out of a credit facility with the U.S. Federal Reserve.
+The Korean basis swap KRWCRS=KMBC KRWIRS, the difference between interest rate and cross-currency swaps was also tighter, at minus 300 bps versus levels as wide as minus 500 in February, indicating the pressure to swap won to raise dollars had moderated while not totally disappearing. That spread had been near zero before the credit crisis.
+"It's not necessarily back to normal, but the dollar shortage story is gone," said JPMorgan strategist Siddharth Mathur.
+Bank of Korea announced a policy review on Tuesday and kept its policy rate, the 7-day repo rate, steady for a third month in a row. Mathur called the review a "non-event" and markets barely reacted to the central bank's pledge to keep policy easy for a while.
+"Given that they have already put in place a lot of stimulus, both on the monetary and fiscal side, and the economy seems to be seeing some positive traction out of it, policy makers are well-advised to wait and watch the developments," Mathur said.
+"That sense of urgency is no longer there," he said.
+(Reporting by Vidya Ranganathan; Editing by Kim Coghill)

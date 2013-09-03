@@ -1,0 +1,18 @@
+MONEY MARKETS-HIBOR declines, Aussie prices in steady rates
+2009-05-04 03:40:00.0
+(Reuters) - A surge of investment flows into Hong Kong lifted its currency peg to the upper end of its band and, as the central bank intervened to defend that peg, drove interbank rates to their lowest in four years.
+Hong Kong's HIBOR HIBOR=R rates on Monday fell even faster than U.S. dollar LIBOR, which has been creeping down steadily as interbank players draw comfort from improving credit markets and economic data.
+Even though 3-month LIBOR was just a fraction away from the crucial 1 percent mark, HIBOR was even lower at 28 basis points below LIBOR in the 3-month tenor.
+was bid at levels around 7.75 per U.S. dollar, the top end of its 7.75-7.85 band. Heavy offshore flows into IPOs, such as last week's issue by China Zhongwang Holdings, and investments seeking the haven of the Hong Kong dollar had forced the pegged currency to the top end of its narrow band against the U.S. dollar, analysts said.
+The Hong Kong Monetary Authority's repeated injections of Hong Kong dollars to defend the band have driven up aggregate balances in the banking system. Those balances, which stood at a record HK$190.8 billion, have forced HIBOR to trade much below corresponding dollar LIBOR.
+"But the marginal impact on HIBOR may be diminishing given that we already have ample liquidity anyway," Cheung said.
+As LIBOR inched down towards record lows -- 3-month LIBOR very briefly hit 1 percent in 2003 -- lending spreads tightened and investors seemed to be looking beyond this week's news in the United States, when the government's stress tests will reveal which of its large banks need more capital.
+Three-month dollar funding rates in Singapore SIUSDD=ABSG crept down to 1.01167 percent from 1.02357 percent on Thursday. Singapore markets were closed on Friday and markets in London, where dollar LIBORs are fixed, are closed on Monday.
+The spread between LIBOR LIBOR= and overnight-indexed swaps (OIS), the latter a measure of market expectation of policy rates, was down to 80 basis points, levels last seen before the collapse of Lehman Brothers in September 2008.
+In Australia, investors largely ignored data showing housing prices declined more than expected in the first quarter and moved further towards pricing in no change in policy rates when the Reserve Bank of Australia meets on Tuesday.
+One-month Aussie dollar overnight indexed swaps AUDOIS were at 2.935 percent, implying a mere 6 bps easing in the 3 percent policy rate.
+"The market pricing is getting closer to zero-expectation," said a trader in Singapore. "We are also seeing good paying interest in OIS, so most players get positioned for a no change."
+But the market was also positioning for rates to remain low for a long time, he said.
+"We have also seen good interest in June-September bill future spread, where funds look to sell the June and buy September possibly expecting rates to stay around current levels for longer time since the OIS market is starting to price in rate hikes after October already," the trader said.
+Last week, New Zealand's central bank surprised markets with an explicit commitment to keep rates low until the latter half of 2010.
+September 3-month Aussie bill futures were at 97.21 <0#YBA:>, implying a yield of 2.79 percent, compared with implied yields of 2.97 in June. (Editing by Jan Dahinten)

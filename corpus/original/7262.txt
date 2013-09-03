@@ -1,0 +1,16 @@
+U.S. firm sues China, PC majors over filter software
+2010-01-07 01:53:00.0
+(Reuters) - A U.S. software maker is suing China, several major PC makers and two Chinese software makers for $2.2 billion, accusing them of using stolen code in controversial Web filtering software that drew global criticism last year.
+Cybersitter LLC filed the suit in a Los Angeles court naming two Chinese technology companies behind China's filtering software, known as Green Dam, as principal defendants.
+It accused the pair of stealing more than 3,000 lines of code from their software, according to a statement issued late on Tuesday by the Santa Barbara, California-based company.
+"This lawsuit is really a groundbreaking suit for the enforcement of intellectual property rights around the world," said Gregory Fayer, an attorney at Gipson Hoffman & Pancione representing Cybersitter.
+"(In) America we no longer have a lot of manufacturing jobs, those have migrated to other countries, but what we do have to offer the world is our ingenuity and our ideas," Fayer said.
+The lawsuit also named a number of major PC makers, including Sony Corp, Lenovo Group, Toshiba Corp, Acer, Asustek as defendants.
+Lenovo, Acer, Sony and Asustek declined to comment, while other PC makers and the two Chinese firms could not be immediately reached for comment.
+Fayer said his client found out about the allegedly stolen code when independent researchers contacted the firm about references to Cybersitter in Green Dam's code.
+In mid-2009, China issued a requirement that all PCs sold in the country would have to carry the Green Dam software, which it said was designed to prevent the country's youth from watching pornography but was seen by some as a veiled move at broader censorship.
+After criticism and protests from global human rights groups, along with behind-the-scenes lobbying from major PC makers, China backed down in July from implementing the program.
+Privately owned Cybersitter, which first made its claims in June 2009, alleged in its lawsuit that the PC makers continued to distribute the Green Damn software after they became aware that the program's content filters were stolen.
+"The main player here is the Chinese government," said a senior company official at a major PC company, speaking on condition his name not be used because of the sensitivity of the issue.
+"We're just a PC seller and unless we don't want to sell PCs in China, we have to follow the law," he said.
+(Additional reporting by Kelvin Soh in TAIPEI and Kiyoshi Takenaka in TOKYO; Editing by Lincoln Feast)

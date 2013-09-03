@@ -1,0 +1,17 @@
+MONEY MARKETS-Steady rates priced in after Australia, China data
+2009-06-01 01:37:00.0
+(Reuters) - Australia and China money markets continued to bet on steady interest rates following data on Monday that showed their economies were recovering while cost of borrowing dollars in Asia eased after the Libor hit another trough.
+Two surveys showed a slight improvement in new export orders in China adding to tentative signs that the world's third-largest economy is stabilising and leading to a small rise in interest rate swaps.
+In Australia, retail sales rose modestly in April cementing the outlook for steady interest rates even as evidence of easing price pressures in May suggested policy makers still had scope to cut interest rates, if needed.
+Australian bill futures <0#YBA:> eased after the retail sales data with the September contract down 9 basis points (bps) to 96.96, implying 3-month rates at 3.04 percent. One-month Australian dollar overnight indexed swaps AUD1MOIS= rose 1.25 bps to 2.9625 percent.
+"It's clear and present evidence that efforts by policy makers are working," said Rob Henderson, chief economist markets at NAB."The RBA is comfortably on hold and these figures do nothing to change that."
+It has said it would like to assess the impact of its previous easing, before any further action and a Reuters poll showed central bank is expected to hold interest rates for the second straight month on Tuesday.[ID:nSP419167]
+However, a private gauge of Australian inflation showed a further sharp easing in price pressures in May [ID:nSYB006032], suggesting there could be room for further easing later.
+"The low inflation outcome and now genuine threat of deflation should be a timely reminder for the RBA board that interest rates are too high and rate cuts should be delivered," said Annette Beacher, a senior strategist at TD.
+In China, interest rate swaps rose mildly after the official purchasing managers' index (PMI) remained above the mark of 50, that separates expansion from contraction, for the third straight month.
+The 3-month IRS CNYQB7R3M= rose half a basis point to 1.08 percent while the 9-month contract CNYQB7R9M= was 2.5 bps higher at 1.23 percent, after the data.
+China's economy has seen signs of bottoming out, helped by the government's 4 trillion yuan ($586.5 billion) stimulus package and loose monetary policies.
+Earlier this year, hopes of a robust recovery had steepened the swaps curve as traders bet the central bank may mop up liquidity, but in recent weeks the curve has been flattening amid worries about the sustainability of the economic rebound.
+"Weak external demand is still hurting China's manufacturers, but conditions are gradually improving in response to stimulus spending," said Brian Jackson, an analyst with Royal Bank of Canada in Hong Kong.
+In Singapore, 3-month dollar funding rates SIUSDD=ABSG eased to 0.65714 percent from Friday's 0.67857 percent. Borrowing rates have halved from their mid-March peak and are down over 75 bps since the start of the year.
+On Friday, the London interbank offered rate (Libor), a global rate benchmark used in pricing of some $150 trillion of financial products around the world, fell allaying some fears that the era of rock-bottom borrowing costs has come to an abrupt end.

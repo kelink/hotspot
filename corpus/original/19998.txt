@@ -1,0 +1,23 @@
+TI first quarter revenue, second quarter outlook top estimates
+2009-04-20 20:15:00.0
+(Reuters) - Texas Instruments posted a surprise quarterly profit on better-than-expected revenue as demand for its chips improved in Asia, and it gave a rosier-than-expected outlook for the current quarter.
+Shares rose 2 percent in late trade after the company said on Monday that business was better than expected in the last few weeks of the quarter, particularly in China, even though it is not seeing improvements in its U.S. or European business.
+"It appears that the industry and TI in particular are putting in a bottom for the March quarter," said Ashok Kumar, an analyst at Collins Stewart.
+"We think the revenue will stabilize at these depressed levels and find its way back," he said.
+TI, which makes chips for everything from cell phones to industrial equipment, forecast current-quarter earnings per share of 1 cent to 15 cents on revenue of $1.95 billion to $2.40 billion. The low end of its revenue target was the same as average analyst estimates, according to Reuters Estimates.
+Roughly 60 percent of the company's revenue comes from Asia, where TI carries out a lot of its manufacturing.
+Chief Financial Officer Kevin March also told Reuters in an interview that TI's customers appeared to have completed efforts to reduce their inventories to meet weaker demand.
+"In the last few weeks of the quarter, demand got a little better in a few areas ... 3G base stations, notebook computers, some parts of the handset market and LCD-based televisions," March said.
+As a result, March said TI, which had used only about 35 percent of its factory capacity in the first quarter, will moderately increase production levels in the current quarter.
+But he noted that the company was not ready to celebrate a turnaround for the broader market, which includes everything from automotives to industrial equipment, or for regions such as Europe or the United States.
+"Frankly, when we look out at the macro economic environment it remains unclear what direction the economy wants to go in," March said, noting that there were no signs of improvement in markets such as automotive or industrial.
+However, Broadpoint Amtech analyst Doug Freedman said investors can look forward to a recovery in growth from other countries besides China.
+"The glass half full is that we've upside coming when the U.S. and Europe recover and the glass half empty is that China can't provide the only vector of strength," he said.
+"The trough level of semiconductor consumption is better than the level we previously expected. Throughout the industry we're seeing this," Freedman added.
+PROFIT, REV BEAT VIEW
+Texas Instruments posted a profit of $17 million, or 1 cent a share, compared with a profit of $662 million, or 49 cents per share, in the year-ago quarter. Revenue fell 36 percent to $2.09 billion from $3.27 billion in the year-ago quarter.
+Analysts on average had expected a net loss of 4 cents per share on revenue of $1.9 billion, slightly below the midpoint of TI's guidance range, according to Reuters Estimates.
+TI trails Qualcomm Inc in the market for mobile phone chips, where it has been grappling with share losses as well as weak demand due to the recession.
+The company, which has been rapidly losing market share in wireless, has been refocusing its spending within that sector toward applications chips used in advanced phones and away from baseband chips, the main processor that powers a phone.
+TI's head of investor relations, Ron Slaymaker, told analysts on the company's earnings conference call that he expects revenue from baseband chips to decline over the next three to four years until it disappears completely around 2012.
+(Reporting by Sinead Carew in New York and Gabriel Madway in San Franciso; Editing Bernard Orr, Gary Hill)

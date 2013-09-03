@@ -1,0 +1,14 @@
+Solid Oak targets CBS in first China spy software lawsuit
+2009-10-07 08:59:00.0
+Track China's Leaders
+Wed  EDT
+Solid Oak Software filed its first lawsuit in a case of Chinese software code theft against TV giant CBS's Internet division, CBS Interactive.
+The Santa Barbara, California, company filed the suit against CBS Interactive for distributing software that contained programming code stolen from its CyberSitter software, which filters pornography, violence and other Internet content deemed bad for kids.
+The Chinese government commissioned Jinhui Computer System Engineering and another company to develop Green Dam Youth Escort software as a tool to keep kids from viewing pornography on the Internet. Beijing then ordered the software to be installed on all PCs sold in China. But security researchers discovered the software blocked politically sensitive Web sites in addition to pornography and spied on user's Internet activity as well.
+The lawsuit alleges CBS Interactive offered free downloads of Green Dam on its ZDNet China Web site in order to promote the Web site to the huge Chinese speaking audience, according to a copy of the document reviewed by IDG News Service. The lawsuit says tens of thousands of copies of Green Dam were downloaded from the site by the middle of August.
+"This action arises from one of the largest cases of software piracy in history, wherein two Chinese companies, backed by the Chinese government, stole approximately 3,000 lines of code from a small American company's software program," the lawsuit alleges.
+The company is seeking US$1.2 million in damages from CBS Interactive. The lawsuit was filed in the U.S. District Court for the Central District of California, Western Division.
+China originally ordered global PC vendors to install Green Dam on all computers sold in the country by July, but it gave up on the idea under pressure from foreign PC vendors and the U.S. government. The country will no longer require mass installation of the program by consumers, but insists it will still be required for computers in public places such as schools and Internet cafes.
+Millions of copies of Green Dam are believed to have been distributed in China already. Solid Oak's lawsuit against CBS Interactive will not likely be the last regarding Green Dam.
+In June the company sent cease-and-desist orders to multinational PC vendors including Acer, Dell, Hewlett-Packard and Lenovo to stop them from pre-installing or otherwise distributing Green Dam. Some PC vendors shipped PCs with Green Dam on board due to the original Chinese government mandate.
+Solid Oak plans to offer its own software to filter Internet content harmful to kids either free or for a very low price in China, executives have said. The company's CyberSitter product is being translated into different languages, including Chinese.

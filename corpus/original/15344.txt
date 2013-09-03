@@ -1,0 +1,17 @@
+Q+A-How tight is China's Great Firewall
+2009-06-25 03:53:00.0
+(Reuters) - Top U.S. officials have urged China to abandon a controversial plan requiring all new personal computers to be sold with Internet filtering software from next week, warning the step could violate world trade rules.
+China has the world's biggest online community but foreign companies seeking to do business there have faced charges of bowing to censorship rules in their hunt for market access.
+Here are some questions and answers about China's Internet controls:
+WHY DOES BEIJING CONTROL THE INTERNET?
+China's government uses Internet controls to prevent its citizens accessing online information that it considers morally corrupting or politically sensitive, or to rein in potentially destabilising online trends like fervent nationalism. The Communist Party has held on to power since 1949 in part by restricting the free flow of information.
+Beijing uses a series of measures including a firewall that blocks objectionable overseas sites, content guidelines for online companies and Internet service providers and an army of censors who trawl the web for controversial postings. From next week all personal computers sold in China will also have "Green Dam" filtering software installed, which the government says aims to protect children from illegal pornographic and violent images.
+WHAT ARE INTERNET USERS IN CHINA UNABLE TO SEE?
+Searches for sensitive topics such as the 1989 crackdown on Tiananmen Square protesters, or the banned Falun Gong spiritual group, turn up error requests and can prompt the search page to briefly stop working on an individual computer.
+Many websites are blocked, including high profile blogging services, human rights advocacy groups such as Amnesty International, and pro-Tibetan independence groups.
+But Beijing does not provide an official list of censored sites, and off-limit pages change on a regular basis.
+WHO RUNS THE FIREWALL?
+IS IT POSSIBLE TO GET AROUND THE FIREWALL?
+Yes. The firewall is far from watertight and many internet users get around it with relatively simple technology, including anonymous proxy servers that cloak a user's identity from the Internet service provider.
+However, these often involve a cat and mouse game with authorities, who block sites providing free proxy servers.
+Chinese bloggers also use euphemism and code -- for instance inspired by the central government's emphasis on a "harmonious society", they discuss censorship of sensitive postings by saying they have been "harmonised". (Reporting by Emma Graham-Harrison; Editing by Benjamin Kang Lim and Bill Tarrant)

@@ -1,0 +1,19 @@
+U.N. calls for greater use of IT in new green economy
+2009-10-08 00:33:00.0
+(Reuters) - Two months ahead of the United Nations climate change conference in Copenhagen, the world body's telecoms arm urged governments and companies to use information technology to fight global warming.
+"Information technologies contribute 2 to 3 percent of global greenhouse gas emissions. But they can also reduce emissions in other sectors by at least 15 percent," said Ban Ki-Moon, United Nations Secretary-General, at a telecoms industry event in Geneva.
+"This means they can be significant ... in our fight against climate change," he added.
+One of the most obvious uses for information technology is video conferencing, which allows people to attend meetings without traveling, thus reducing their carbon footprint.
+"When we consider that every week there are international conferences involving thousands of participants, virtual events ... would have a huge impact on emissions," Malcolm Johnson, Director of ITU's Telecommunication Standardization Bureau said.
+"It's a struggle just to get ICT mentioned," Johnson said.
+But there's more to what is dubbed green ICT than virtual meetings.
+So far, they have delivered the first of 100 base stations but VNL sees major growth ahead.
+"By the end of this year we will be on three continents," VNL chairman Rajiv Mehrotra told Reuters in an interview.
+He said text messages are being used as new tool to help farmers in Africa. Mobile phone companies and other partners had installed 5,000 new weather stations across Africa.
+"The weather stations will monitor the impact of climate change. When there is news, we will be able to transmit it immediately to farmers' mobile phones. We hope to reach as many African farmers as possible -- because seven out of ten Africans rely on farming to survive," Ban said.
+Laina Raveendran Greene, CEO of environmental tech consultancy GetIt said: "going green is about getting rid of inefficiencies and that makes business sense."
+Mike Lazaridis, CEO of BlackBerry, agreed: "Green is all about efficiency ... and Blackberry has always been focused on conserving spectrum.
+"Because when you conserve spectrum you conserve power, your battery lasts longer, you conserve costs and capex," he added.
+The ICT sector needs to look at its own carbon issues too. A datacentre for a search engine company can consume as much energy as a city the size of Geneva, the ITU has said.
+"First we need to start with ourselves," said Jianzhou Wang, Chairman and Chief Executive of China Mobile.
+"We used to believe that the telecom industry has low energy consumption, however, following the construction of numerous base stations and abundant utilization of servers, power consumption has become one of the major operating costs and need to be lowered," he said.

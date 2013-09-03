@@ -1,0 +1,20 @@
+Rackable Systems becomes SGI, closes deal
+2009-05-11 21:20:00.0
+Rackable Systems becomes SGI, closes deal | Reuters
+Track China's Leaders
+Rackable Systems becomes SGI, closes deal
+Mon  EDT
+Rackable Systems has completed its acquisition of Silicon Graphics and will change the name of the combined company to SGI, Rackable announced Monday. It hopes the name change helps it expand its business overseas, where SGI is a better-known brand.
+Rackable's x86 servers have been sold to large and midsize data centers primarily in the U.S., and the SGI name is more easily recognized in Europe and Asia, Mark Barrenechea, Rackable's president and CEO, said in an interview Monday.
+"We've gone from being a U.S.-centric company to a global company," he said. The new SGI will have about 1,300 employees, compared to Rackable's 300, and it will retrain some of Silicon Graphics' overseas staff to sell and support Rackable's x86 equipment, Barrenechea said.
+The new SGI will also continue to develop and support the high-performance computing systems that Silicon Graphics was known for, he said. "There should be no disruption to Silicon Graphics customers," Barrenechea said.
+"While clustered computing is certainly bleeding into the low end of HPC, the high end of shared-memory HPC systems is still a very different market," he said.
+The combined company will be able to address "all the toughest computing problems, whether it is serving up a billion videos a day through YouTube, modeling weather patterns, helping intelligence and defense agencies, making sure race cars go as fast as they can, or doing scientific research," Barrenechea said.
+Renaming the company is a good move, even if Silicon Graphics had been struggling in recent years, said Dan Olds, principal analyst at Gabriel Consulting Group. SGI remains "a respected tech powerhouse" in some markets, he said.
+And Rackable needs to expand its customer base, he added. "Right now they have a relatively small handful of very large customers. They need to expand into more corporate accounts and get into HPC as well," Olds said.
+SGI received court approval on April 30 to buy the assets of Silicon Graphics and closed the deal on Friday. Rackable said it would pay US$25 million when it announced the deal April 1, but it ended up paying $42.5 million in the bankruptcy auction proceedings.
+It has designed a new SGI logo from Rackable's blue and green colors. The Rackable name will live on as the brand for SGI's x86 servers. The "centers of gravity" for the new company will be the U.S., the U.K., France, Germany, Japan, China and Korea, Barrenechea said.
+Silicon Graphics' revenue peaked at $3.66 billion in 1997 and had dropped to around a tenth of that at the end of its last fiscal year. The company fell victim to similar market forces that dragged down Sun Microsystems, though with less diversity to weather the storm. It had reported losses for the past several quarters.
+Barrenechea said Silicon Graphics was brought down by "a perfect storm" of too much debt, the recession and some operational inefficiencies. He plans to make the business profitable under the new SGI. "One of the strengths we bring to Silicon Graphics is our operational discipline," he said. "Even though in Q1 we lost money in a very tough economy, we accreted cash."
+He hopes to transfer some of the acquired HPC technology to the company's x86 systems, which are known for energy efficiency but now face stiffer competition from bigger server vendors, who have been "greening" their products.
+Some of the shared-memory technology in the HPC systems could give the x86 systems better virtualization capabilities, he said. The new SGI will also use the InfiniBand high-speed network technology more widely in the x86 systems, he said.

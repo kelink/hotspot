@@ -1,0 +1,21 @@
+Exclusive: China software bug makes infrastructure vulnerable
+2011-06-16 22:28:00.0
+(Reuters) - Software widely used in China to help run weapons systems, utilities and chemical plants has bugs that hackers could exploit to damage public infrastructure, according to the Department of Homeland Security.
+Sunway's products, widely used in China, are also deployed to a lesser extent in other countries including the United States, DHS's Industrial Control Systems Cyber Emergency Response Team said in its advisory.
+"These are vulnerabilities that hackers could leverage to cause destruction," said Dillon Beresford, a researcher with private security firm NSS Labs, who discovered the bugs.
+The DHS advisory comes amid a wave of high-profile cyberattacks on institutions ranging from the International Monetary Fund to Citigroup Inc and Sony Corp. The attacks focused primarily on stealing data; only in a few instances has critical infrastructure been attacked.
+Last year the Stuxnet computer worm surfaced, targeting industrial control systems manufactured by Siemens. Security experts widely believe that the worm was built as part of a state-backed attack on Iran's nuclear program.
+Iran said the worm was used to attack computers at its Bushehr nuclear reactor. There has been widespread speculation that Stuxnet actually damaged the plant, something Iran denies.
+Beresford has worked with Sunway, Chinese authorities and the DHS to fix the bugs he found. Sunway has developed software patches to plug the holes, but it could take customers months to install those patches, Beresford said.
+"Customers need to be notified and given proper time to patch," said Beresford, who also discovered security bugs in industrial control management systems from Siemens. The German company addressed those vulnerabilities in an advisory it released last week.
+The Sunway software flaws highlight growing concerns about the safety of supervisory control and data acquisition (SCADA) computer systems that are used to monitor and control processes in a wide variety of facilities, including nuclear power plants, chemical factories, water distribution networks and pharmaceutical plants.
+Security systems to deal with Web threats have been bolted on rather than incorporated into SCADA systems, leaving holes that hackers can penetrate.
+"The point of my putting this information out and getting it into the public domain is so that we can pressure the vendors to actually patch the vulnerabilities instead of sitting on them because these systems are inherently flawed by design," he said.
+(Reporting by Jim Finkle; Editing by Tiffany Wu, Phil Berlowitz)
+                                                                                                                                                                                                                                                                                                                                                        
+Another reason for putting this information out there is to remind China that people who live in glass houses shouldn¡¯t throw stones.
+Jun 17, 20118:29am EDT--
+When are we going to learn that computers are not safe? When are we going to learn that our local, state and federal governments, our electrical grid, our nuclear plants do not need to be operating on the internet? Computers are not necessary for us to function. They only make us more vulnerable.
+Jun 17, 20119:38am EDT--
+No offense, but shouldn¡¯t the people doing this focus on securing US systems? As far as i know, many US based institutions have been successfully infiltrated over the past few months¡­
+Jun 17, 20119:44am EDT--

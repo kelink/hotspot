@@ -1,0 +1,11 @@
+People the weak link in cybersecurity: report
+2009-07-22 04:13:00.0
+(Reuters) - The popularity of Facebook and other popular social networking sites has given hackers new ways to steal both money and information, the security company Sophos said in a report released on Wednesday.
+About half of all companies block some or all access to social networks because of concerns about cyber incursions via the sites, according to the study.
+"Research findings also revealed that 63 percent of system administrators worry that employees share too much personal information via their social networking sites, putting their corporate infrastructure -- and the sensitive data stored on it -- at risk," the Sophos report said.
+One result is that a quarter of businesses have been hit by spam, phishing or malware attacks via Twitter or social networking sites, Sophos said.
+Phishing is emails or chitchat that scam artists engage in to convince would-be victims to reveal personal information like passwords or bank numbers while malware is malicious software, often designed to infiltrate a computer system for illicit purposes.
+Sophos also found that the number of Web pages with malware quadrupled since early 2008, with the United States hosting 39.6 percent of it, more than any other country. China was second with 14.7 percent.
+Sophos also said that 15 new fraudulent anti-virus vendors were discovered every day, triple the number found daily in 2008.
+Sophos, which has dual headquarters in the United Kingdom and the United States, is the biggest privately held security software maker.
+(Reporting by Diane Bartz, editing by Matthew Lewis)

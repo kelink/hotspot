@@ -1,0 +1,28 @@
+Google-China spat may hurt Motorola's Android push
+2010-01-20 17:49:00.0
+(Reuters) - Google Inc's threat to exit China could create a big headache for its cellphone partners, especially Motorola Inc, which has bet its turnaround on Google's mobile software and China.
+The possible withdrawal of Google from the world's most populous country could also provide new growth opportunities for Nokia and Apple Inc in phone sales, and for Microsoft Inc in Web search, analysts said.
+Google said on Tuesday it postponed the China launch of two phones running its Android mobile software, one made by Motorola and one by Samsung Electronics Co Ltd. This came after Google said last week that it and other companies were targets of cyber-spying from China, and that Google would no longer accept censoring of search results on the Chinese google.cn search site.
+Many analysts say a Google China exit may hurt sales of Android phones, which are also being built by several Chinese firms including ZTE Corp and Huawei. Motorola, which is banking on Android to revitalize a flagging cellphone unit, could be hurt the most.
+"Motorola has made China and the U.S. the two markets it's focusing most closely on, and it's placed a big bet on Android," said Current Analysis analyst Avi Greengart.
+Morgan Stanley analyst Ehud Gelblum wrote in a research note that he was cutting his current quarter estimates for Motorola's Android phone sales by half a million to 1.5 million due to uncertainty around its ability to ship phones in China.
+BMO Capital Markets analyst Tim Long estimates that Motorola sells about 10 percent of its phones in China, where it announced plans this month to sell two Android phone models. Motorola had said, before news of the delay, that it would sell five or six smartphones for China this year.
+Long sees China becoming increasingly important for mobile growth, though less than 5 percent of phones sold there are smartphones, versus roughly a quarter in the United States.
+"It's certainly something (Motorola's) going to need this year and into 2011," he said.
+Motorola declined to give details about the product delay except to say it is working closely with China's network operators to bring out a wide range of devices there.
+NOKIA, BAIDU MAY BENEFIT
+The disagreement could also help Microsoft make inroads into China's mobile market, the largest in the world. Some analysts are skeptical, however, as Microsoft's mobile system has lost some of its luster, with more handset makers choosing Android.
+According to a BusinessWeek report, Apple is considering using Bing instead of Google as the default search engine on the iPhone, a move that would reflect the growing rivalry between Apple and Google.
+If Google does leave China, Avian Securities analyst Matthew Thornton said Chinese search firms like Baidu may have a better chance of usurping Google's mobile search than Microsoft.
+"It's probably a big opportunity for some of the local search guys," he said.
+Last year Baidu had a 33.7 percent share of mobile web search page views versus Google's 19.5 percent share, according to second quarter research.
+However, some analysts played down the impact on Android even if Google exits search in China. Since Android is an open source system, phone makers could keep selling Android phones there -- just without Google's map, email and search services.
+Though these services have been key to attracting U.S. mobile users to Android, in China -- where Google is less dominant -- a nice user interface could be enough to keep Android relevant.
+"Even if Google pulls out, the Android platform and the Android brand will still be in China," said Zhang Yanan, an analyst with Beijing's Analysys International.
+"If they were to leave, it may be a short-term boost for players like Apple as China users won't have access to many of the applications or Google functions on the Android platform."
+However, growth for phones from rivals such as Apple and BlackBerry maker Research In Motion could be curtailed by high prices, something which Chinese consumers have been sensitive to so far, according to analysts.
+Even if some phones are canceled, some analysts are reassured by existing commitments from China Mobile and China Telecom to sell Motorola's Android phones.
+"This is clearly a negative for Motorola if Google's decision to 'delay' turns into 'cancel,' but probably only impacts the minority of Motorola's China opportunity in the near term," Morgan Keegan analyst Tavis McCourt said.
+Another analyst, Elinor Leung of Hong Kong based CLSA, said China Mobile would likely have to reexamine its mobile search partnership with Google if it pulls out of local search.
+Google's surprise announcement also raises concerns about its predictability as a business partner since just this month it launched direct phone sales out of the blue, catching some partners unaware, said Deutsche Bank analyst Brian Modoff.
+(Reporting by Sinead Carew in New York and Melanie Lee in Shanghai, additional reporting by Joanne Chiu in Hong Kong and Kelvin Soh in Taipei; Editing by Phil Berlowitz)

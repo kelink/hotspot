@@ -1,0 +1,12 @@
+ADR Report-Foreign stocks slip at the close on bank fears
+2009-04-22 17:30:00.0
+(Reuters) - Overseas shares traded in the United States fell on Wednesday as renewed fears about the health of banks weighed on financials, and energy companies slumped.
+), India's ICICI Bank (
+) were among the top drags, after U.S. bank Morgan Stanley (
+The Bank of New York Mellon's index of leading American Depositary Receipts (ADRs) .BKADR fell 1 percent while the U.S. benchmark S&P 500 index
+ADRs of Chinese companies led declines in Asia, with the country's ADR index .BKCN down 3 percent after drops of nearly 3 percent in both the Hong Kong and Shanghai markets, hurt by talk of a probable tightening in credit.
+The Bank of New York Mellon's index of leading Asian ADRs .BKAS fell 0.8 percent. Overnight in Asia, markets in Tokyo, Seoul and Taiwan closed higher.
+) edged up 0.3 percent to $6.01 despite news it may post a net loss of 700 billion yen (about $7.2 billion) for fiscal 2008, according to the Nikkei business daily. [ID:nBNG499291]
+The paper also reported Japan's SESC, the securities watchdog, will scrutinize Nomura's books to assess its financial health.
+The Bank of New York Mellon's index of leading European ADRs .BKEUR slipped 1.2 percent, weighed by banks. In Europe, the FTSEurofirst 300
+Receipts with the Bank of New York Mellon's index of leading Latin American ADRs .BKLA shed 0.6 percent. In Latin America major benchmarks were higher, with bourses in Brazil and Mexico reporting gains of more than 1 percent.

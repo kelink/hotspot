@@ -1,0 +1,18 @@
+Symbian sees smartphone market up 12-15 percent
+2009-05-19 00:42:00.0
+(Reuters) - Sales of smartphones are set to grow 12-15 percent in 2009, said Lee Williams, chief of the Symbian Foundation, the consortium of companies around the world's most popular smartphone operating system.
+Smartphones are seen as a bright spot on the shrinking cellphone market this year, with some analysts forecasting above 30 percent market growth for phones with advanced capabilities like e-mail or Internet browsing.
+"For the first time people are realizing you don't have to carry your digital camera with you and your phone, for the first time people are realizing that you can do your email and access Internet services on your mobile phone," Williams said on Tuesday at the Reuters Global Technology summit in Paris.
+ARM, the world's leading chip designer, said on Monday it expects the smartphone market to grow 10 percent, while France's second-largest mobile operator SFR said it was seeing strong demand for smartphones.
+"There we are seeing strong demand and strong growth," SFR Chief Executive Frank Esser said at the summit.
+The overall cellphone market contracted in January-March at the fastest pace in its history, with analysts estimating production falling 13-16 percent -- with most expecting 2009 market to fall 10 percent or more due to the recession.
+Williams said the mood in the wireless industry has improved somewhat, with companies starting to see "the light at the end of the tunnel."
+"They realize they are still in a tunnel and they don't know how long it will take to the light, but if you go back two or three months nobody could even see the light," Williams said.
+"It's still tight and awful ... I do think some still have to be hit by a train in this tunnel though," he said.
+So far, Canada's wireless equipment maker Nortel Networks and Germany's Qimonda have filed for bankruptcy protection, while many loss-making firms are struggling to refinance their debt.
+Williams said he expects membership of the foundation to grow to more than 100, excluding independent software vendors, by the end of 2009. In February Symbian said it had 78 members.
+Nokia bought out other shareholders of Symbian last year, and committed to give all its software to an independent foundation, which will develop it on an open-source basis, meaning all members can freely use and adapt the code.
+Symbian has lost market share for several quarters to new entrants like Apple and Google, but Williams said he expects to turn the trend.
+Williams said Symbian was seeing increasing interest toward its software from Chinese and Taiwanese companies, and was already in close talks with China's Huawei and ZTE, known for their aggressive pricing to win market share.
+"We have very active discussions with both of those companies," Williams said, adding it was also very likely that one or two of China's mobile carriers, three to five original design manufacturers and at least one chip maker would join the foundation.
+Getting Chinese vendors on board could take Symbian to mass market, while its takeup has been in history been hampered by high pricetags of smartphones. Also Nokia has said it expects to take Symbian to lower price levels.

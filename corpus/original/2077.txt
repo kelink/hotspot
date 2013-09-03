@@ -1,0 +1,24 @@
+Battery fluid leak may be a factor in China car fire: BYD exec
+2012-06-06 23:52:00.0
+(Reuters) - Flammable fluids leaking from a BYD electric car battery might have contributed to a fire following a high-speed fatal crash in China last month, a BYD executive told Reuters.
+However, Stella Li, senior vice president of Warren Buffett-backed Chinese battery and car producer BYD Co., defended the safety of electric cars the company designs and sells in China.
+Police are still investigating the crash, which occurred in Shenzhen, China, early on the morning of May 26 when a Nissan GT-R sports car traveling at least 180 kilometers per hour (110 mph) crashed into the BYD e6 taxi which later caught fire, according to BYD. The taxi driver and two passengers died.
+"No car company could design an electric car or a gasoline-fueled car that could withstand a 180-kph crash, especially from being slammed from the backside," Li said in an interview this week.
+The BYD executive said it will likely be weeks, if not months, before police can say anything conclusive, if at all, on the cause of the fire. But she said there is "a big chance" that liquid electrolyte - one of the three primary functional components in a battery - may have leaked after the crash.
+Those liquids may have caught fire, ignited by sparks from high-voltage cables or screeching wheels, said Li, who runs BYD's U.S. operations in Los Angeles. BYD has sold about 500 e6 cars in China since last year, with at least half of them sold to taxi operators and other fleet customers.
+The accident has triggered fears among some investors that automakers were over-confident about the safety of energy-packed batteries powering electric cars, and could be a talking point at BYD's annual shareholders' meeting on Friday in Shenzhen.
+News reports and photos of the crash were widely circulated in China, and BYD's shares fell to a seven-month low on May 28, the first trading day after the crash.
+Some industry insiders worry the Shenzhen accident may impact more than just BYD's electric car future.
+Photos of the burned e6 taxi are "so sensational," said a chief engineer at Toyota, which uses a different type of battery in its hybrid electric vehicles. "I am not sure if calm and measured attitudes toward electric cars would prevail in the market" after the accident, especially among consumers who are already jittery about the new technology. "It worries me."
+The crash sent the BYD car into "multiple rounds of crashes and spinning," mangling the car body and causing it to catch fire, BYD said.
+Li said despite the fire, the company believes that its electric car performed to its designed safety expectations. She said based on a close examination of photos, it was "clear" the battery itself did not explode following the fire, even though the crash severely deformed the back end of the car, presumably damaging the battery stored under the car's rear seat.
+Most of the ones that power consumer electronics products such as cell phones use something called cobalt oxide, but some automakers including BYD have avoided that technology because it can overheat excessively.
+Iron-phosphate is seen as having better chemical stability, and therefore thought to be safer for electric cars.
+Li said an electrolyte leak could be prevented if car makers fortified the casing that stores battery packs in a car, but that would make cars more expensive and it is not required by regulators. BYD has said it met Chinese car safety regulations, and the batteries in the e6 car did not catch fire in government tests even when 50 percent of the battery pack was damaged.
+INHERENTLY SAFE?
+BYD's Li said the company is deeply sorry about the accident and the deaths. "But from a pure technical point of view, this accident confirms the batteries we are using are safe."
+Other companies, including U.S.-based lithium-ion battery maker A123 Systems Inc, use the same type of technology.
+A123 and others have conducted numerous tests, and "iron-phosphate has been demonstrated over and over and over again that it fundamentally does not exhibit that kind of behavior," said Yet-Ming Chiang, a founder of A123, referring to the tendency to overheat and combust.
+David Friedman, a clean-vehicle expert with the Union of Concerned Scientists, a non-profit group in Washington, agrees BYD's iron-phosphate based lithium-ion battery "has the potential to be safer."
+"I'm never going to proclaim a gasoline vehicle or a battery-electric vehicle inherently safe, especially without a lot of data," he added. "There is no such thing as inherently safe."
+(Reporting by Beijing newsroom; Additional reporting by Ben Klayman and Bernie Woodall in Detroit; Editing by Ken Wills and Muralikumar Anantharaman)

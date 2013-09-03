@@ -1,0 +1,30 @@
+Chinese hackers infiltrated five energy firms: McAfee
+2011-02-10 14:31:00.0
+(Reuters) - Hackers working in China broke into the computer systems of five multinational oil and gas companies to steal bidding plans and other critical proprietary information, the computer security firm McAfee Inc said in a report.
+The report, which named the attacks Night Dragon, declined to identify the five known companies that had been hacked and said that another seven or so had also been broken into but could not be identified.
+"It ... speaks to quite a sad state of our critical infrastructure security. These were not sophisticated attacks ... yet they were very successful in achieving their goals," said Dmitri Alperovitch, McAfee's vice president for threat research.
+The three largest U.S.-based oil companies, Exxon Mobil, Chevron and ConocoPhillips, all declined to comment on whether they had been targeted, citing policies not to speak about their security measures.
+The attacks are the latest computer-based invasions directed at western companies, and come a year after Internet giant Google and more than 100 companies were targeted by hackers that were traced to China.
+Stock market owner NASDAQ OMX reported over the weekend that hackers appeared to have breached its systems, and new legislation was introduced in the U.S. Senate that would strengthen cyber security.
+In the attacks against the oil companies, the hackers got into the computers either through their public websites or through infected emails sent to company executives.
+During the last two years -- and up to four years -- the hackers had access to the computer networks, focusing on financial documents related to oil and gas field exploration and bidding contracts, said Alperovitch.
+"That information is tremendously sensitive and would be worth a huge amount of money to competitors," said Alperovitch.
+The hack was traced back to China via a server leasing company in Shandong Province that hosted the malware, another term for malicious software, and to Beijing IP addresses that were active from 9 a.m. to 5 p.m. Beijing time (0100-0900 GMT).
+McAfee's report did not identify who was behind the hacking.
+"We have no evidence that this is government sponsored in any way," said Alperovitch.
+McAfee provided the data to the Federal Bureau of Investigation, which did not respond to requests for comment.
+"This is normal business practice in China. It's not always state sponsored. And they do it to each other," said Jim Lewis, a cyber expert with the Center for Strategic and International Studies think tank.
+Asked if Beijing normally agreed to arrest hackers, Lewis responded: "It's not impossible, but it hasn't happened very often."
+"I really have no grasp of this situation, but we frequently hear about these types of reports," Ma said.
+"We are aware of these types of threats, but we can't comment specifically about what's in the Night Dragon report," said FBI spokeswoman Jenny Shearer.
+Washington believes that hacking attacks on Google Inc that briefly prompted the company to pull out of China were orchestrated by two members of the country's ruling body, according to U.S. diplomatic cables released by WikiLeaks.
+The French government is looking into a possible Chinese role in spying on carmaker Renault SA's and Nissan's electric vehicle program.
+In 2007, a Chinese student working at car parts maker Valeo was sentenced to prison for obtaining confidential documents from the automaker. A French tribunal stopped short of an industrial espionage verdict, instead finding that she had "abused trust."
+(Additional reporting by Michael Martina in Beijing and Matt Daily in New York; Editing by Andre Grenon, Yoko Nishikawa and Bernard Orr)
+                                                                                                                                                                                                                                                                                                                                                        
+This is exactly what happened to google. Chinese hacked into their system, and the Chinese government refused to investigate. The Chinese government can¡¯t even abide by their own laws.
+Feb 10, 20113:15am EST--
+I¡¯m no fan of this blatent theft, but I¡¯m sorry, if they got in through the website or through virus e-mails, these companies deserved to get their data stolen. It¡¯s like if I left a $100 bill half under a rock in my front yard and then got upset when I found it stolen overnight.
+Feb 10, 20119:08am EST--
+I agree with THeRmoNukE if these companies can¡¯t secure their website and train their employees about some of the easier hacks then I have no compassion for their loss.
+Feb 10, 201111:25am EST--

@@ -1,0 +1,42 @@
+Washington weighs security after serious Google allegation
+2011-06-02 22:20:00.0
+Track China's Leaders
+Our day's top images, in-depth photo essays and offbeat slices of life. See the best of Reuters photography.
+Our day's top images, in-depth photo essays and offbeat slices of life. See the best of Reuters photography.
+Thu, Jun 2 2011
+Fri, Jun 3 2011
+U.S. Secretary of State Hillary Clinton addresses the Washington Conference on the Americas at the State Department in Washington May 11, 2011. Credit: Reuters/Kevin Lamarque
+Thu  EDT
+"These allegations are very serious," Secretary of State Hillary Clinton said.
+"We take them seriously; we're looking into them," Clinton told reporters a day after the Internet giant said it had disrupted a campaign aimed at stealing passwords of hundreds of Google email account holders, including senior U.S. government officials, Chinese activists and journalists.
+Google's announcement fuels debate in Washington over China's intentions in cyberspace, which the United States has identified as a potential flashpoint for future conflict.
+Neither Google nor the U.S. government has said the Chinese government was behind the attacks, and the U.S. State Department said it had not raised the issue with Beijing.
+Beijing nevertheless reacted angrily to Google's charge, saying it was "unacceptable" to blame Beijing and allegations that China supports hacking "have ulterior motives."
+Clinton said Google told the State Department before it made its public announcement on Wednesday, and the FBI was investigating, with Google.
+The White House said it had no reason to believe official government emails were hacked in the Google incident, and officials at many agencies stressed that government employees were directed not to use private accounts to discuss sensitive issues.
+"Rule number one is: don't do anything stupid," one national security official said.
+Some government agencies, including the Securities and Exchange Commission and the Commodity Futures Trading Commission, block employees from accessing personal accounts from work. But there is no blanket ban and other agencies do allow it.
+Still, the government will check whether senior officials' private accounts were targeted, officials said.
+"I don't believe we're aware that anyone was affected in this building," State Department spokesman Mark Toner said. "We'll continue to look into the possibility that some individuals here may have been affected."
+Some analysts said the hacking incident could make the federal government nervous about extending contracts to Google, even though those email and communication services come with a higher degree of security than the email services that were compromised. Google is competing heavily with Microsoft Corp in that space.
+"I would think this is a negative for Google," said Tavis McCourt, an analyst from Morgan Keegan.
+Google's latest salvo looked likely to bring Internet policy to the foreground in the U.S-China relationship, where Washington and Beijing have staked out sharply contrasting approaches to censorship, freedom of speech and cybersecurity.
+The United States was drawn in last year when Google temporarily shut its Chinese-language portal over censorship concerns and a cyberattack it said was traced to China. Clinton also has accused Beijing of facing a "dictator's dilemma" as it seeks to control technologies that are fueling growth and free speech around the world.
+Google executives, speaking at the company's annual shareholder meeting on Thursday, said the company stood behind its decision to pull its search operations out of mainland China because of censorship, even though the company maintains other operations in the country.
+"It's a pretty strong response and it's a had a lot of repercussions throughout the world," he said.
+Google executives did not comment on the recent email hijacking campaign, though Chief Executive Larry Page reiterated the company's assertion that the attacks were conducted by stealing passwords rather than by breaching the security of Google's systems.
+The latest Google hacking attempt follows a series of high-profile hacking cases that have hit U.S. defense giant Lockheed Martin, entertainment giant Sony and others. A U.S. official familiar with progress on the investigation said there was increasing suspicion the Lockheed hack originated with "someone in China."
+China, often the first to be blamed, says it is being unfairly accused by countries that are simply unhappy at how Chinese growth is swiftly eroding Western economic, military and geopolitical dominance.
+The United States has warned that a devastating cyberattack could result in real-world military retaliation, although analysts say it could be difficult to detect its origin with full accuracy.
+"Folks tend to tie a lot of the hacking activity to China, but ... my sense is that you're moving into a realm (where) you can't always say it's a state actor," Chief of Naval Operations Admiral Gary Roughead told Reuters in an interview.
+The White House and the State Department have appointed officials to oversee cybersecurity issues. The Pentagon probably has the most developed strategy in the U.S. government, with a Cyber Command and thousands of people in different divisions of the military dedicated to matters of cybersecurity and cyberwarfare.
+"This looks like a fairly crass attempt at intelligence-gathering," said John Bassett, a former senior official at Britain's signals intelligence agency GCHQ and now associate fellow at the Royal United Services Institute.
+"It's incompetent in that the intruders were spotted quickly. The targeting looks wholesale and rather random ... It feels like an effort by B-team players that's gone badly wrong.
+(Additional reporting by Arshad Mohammed, Phil Stewart, Mark Hosenball, Sarah Lynch and Andrea Shalal-Esa in Washington, Peter Apps in London and Alexei Oreskovic in San Francisco; Editing by Cynthia Osterman and Eric Walsh)
+                                                                                                                                                                                                                                                                                                                                                        
+This so call ¡°serious security breach¡± is only a link in an e-mail to a dummy site for victims to give out their passwords. These also happen all the time on many banks / online shopping websites. So, I don¡¯t know why this has to be a headline news?
+Jun 02, 201112:10am EDT--
+And Weiner thinks he has problems!
+Jun 03, 20111:16am EDT--
+It¡¯s so strange to read these articles, and others like it over the years. The vast majority of these issues are really examples of ¡®social engineering¡¯ as compared to actual ¡®hacking¡¯. Knowing the difference between the two is really all the protectoin most people need. You could have the most secure hardware and software in the world and still fall to social engineering.
+Jun 03, 20118:42am EDT--

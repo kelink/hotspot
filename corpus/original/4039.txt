@@ -1,0 +1,8 @@
+Factbox: The rules of the game in a Treasury auction
+2011-06-30 00:47:00.0
+(Reuters) - U.S. Treasury auctions occupy a separate space from the trading of U.S. Treasuries in the secondary market, with different rules and reporting requirements. News that China was hiding some of its Treasury purchases at auctions draws attention to some important differences between auctions and Treasury trading elsewhere.
+* Direct bidders - Individuals or firms with a direct connection to the Treasury through which they can place bids at auctions. These entities can't place bids on behalf of others.
+For a start, auction bidders are subject to a limit on how much of a single auction they can buy. The limit is 35 percent, and the Treasury rules say anyone who bids for and wins more than 35 percent of a single auction will have his or her bid reduced to 35 percent.
+"In Treasury auctions, it is acceptable to bid for more than 35 percent of the offering amount, but Treasury will not award more than 35 percent to a single bidder. There is no restriction on purchases in the secondary market," said a spokeswoman for the Treasury.
+Afterward, the Treasury releases auction bidding statistics that separate the customers -- indirect bidders -- from the primary dealers and the direct bidders. This helps market participants gauge demand for new Treasury issues. There are no such reporting requirements for purchases in the secondary market.
+(Reporting by Emily Flitter; Editing by Claudia Parsons)

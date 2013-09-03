@@ -1,0 +1,21 @@
+Motorola sues Huawei for trade secret theft
+2010-07-22 01:21:00.0
+(Reuters) - U.S. mobile phone maker Motorola Inc MOT.N has sued China's Huawei Technologies Co HWT.UL for alleged theft of trade secrets, highlighting the fast-growing Chinese firm's difficulty in shaking the nation's reputation for piracy.
+In an initial suit, filed in 2008, Motorola sued five of its former workers for allegedly sharing trade secrets with Lemko, which was also named in the suit and has a reseller agreement with Huawei.
+In the amended complaint, filed on July 16 in a federal court in Chicago, Motorola claimed an engineer shared information about a Motorola transceiver and other technology with Huawei's founder, Ren Zhengfei, a former officer in China's People's Liberation Army.
+Motorola claimed a string of emails tagged "Motorola Confidential Proprietary" showed that "Huawei and its officers knew they were receiving stolen Motorola proprietary trade secrets and confidential information without Motorola's authorization and consent," according to the suit.
+"Huawei has no relationship with Lemko, other than a reseller agreement. Huawei will vigorously defend itself against baseless allegations," the company said in an emailed statement.
+Cases like these are hard to prove from an evidence point of view, said Connie Carnabuci, a technology, intellectual property expert and partner at Freshfields in Hong Kong.
+"Cases involving misappropriation of proprietary information are usually very difficult cases to run," Carnabuci said.
+"This case is being brought in the courts of the United States, one thing interesting is that decisions of the U.S. courts are not enforceable in China," she added.
+Schaumburg, Illinois-based Motorola accused Huawei of various violations including threatened or actual misappropriation of trade secrets, breach of fiduciary duty and usurpation of corporate opportunity.
+Since at least 2006, Motorola had required its engineers to sign a confidentiality agreement, according to the filing.
+Motorola spokeswoman Jennifer Erickson said: "We don't comment on pending litigation, but will continue to vigorously defend our IP (intellectual property)."
+Huawei and Motorola were once fierce rivals in China's fast-growing telecoms market, but their fortunes have diverged in the last few years.
+Over that time, Huawei has risen to become the world's second-largest seller of wireless telecoms equipment, notching major sales not only in developing markets but also in lucrative Western Europe markets.
+Motorola, meanwhile, has seen its networking equipment business struggle in recent years as its mobile phone business also lost ground. It now looks poised to exit the networking equipment business, announcing earlier this week it would sell the unit to Nokia Siemens Networks NSN.UL for $1.2 billion.
+Motorola's ongoing case against Huawei comes as the Chinese company is trying to push for legitimacy in the global arena despite wariness from Western politicians over Ren's government and military ties.
+In 2008, Huawei's bid to buy U.S. firm 3Com fell through after opposition from U.S. lawmakers.
+In 2004, Cisco Systems Inc (
+"There is a lot of attention amongst Chinese companies and (multinational companies) doing business in China where people are looking at their business practices and ways to minimize unauthorized leakage of information," Carnabuci said.
+(Additional reporting by Helen Chernikoff and Sinead Carew in NEW YORK; Editing by Jacqueline Wong and Lincoln Feast)

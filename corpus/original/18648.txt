@@ -1,0 +1,31 @@
+As economy softens, Microsoft ramps up research
+2009-05-07 11:39:00.0
+As economy softens, Microsoft ramps up research | Reuters
+Track China's Leaders
+As economy softens, Microsoft ramps up research
+Thu  EDT
+Even as the world economy languishes, Microsoft is putting an increasing focus on its research efforts in areas well beyond its traditional desktop and office software domain.
+New research can take up 15 years before it is incorporated into a product, so Microsoft needs to be ready when the economy comes back, said Andrew Herbert, managing director of Microsoft's research facility in Cambridge, England.
+The company employs about 1,000 researchers across its five labs in the U.S., U.K., India and China and is adding around 80 people a year, nearly the same number of people as many universities' computer science departments, Herbert said. It expects to spend US$9 billion this year on research and development.
+On Wednesday, Microsoft opened the doors of its U.K. facility, the Roger Needham Building at the University of Cambridge. The open house had a sort of science-fair feel to it, with researchers on hand near displays describing what they've been working on.
+The commercial prospects for many of the innovations remain fuzzy, and none of the technologies will necessarily be on the market any time soon. Microsoft's researchers work quite separate from the company's product developers.
+The goal is for researchers to come up with innovations that will put a smile on CEO Steve Ballmer's face, Herbert said. Ballmer is probably already smiling, as many of the lab's projects show promise.
+Most of Microsoft's research efforts are in software, but one of the more exotic displays from Wednesday was Somniloquy, a raw-looking USB drive sticking out of a desktop PC.
+Somniloquy is the term for talking during sleep, which is essentially what it allows a PC to do. When PCs go into sleep mode, they lose the ability to communicate on networks. The only alternative is to leave the PC on, which constantly draws power.
+Business users often leave their office PCs on overnight to allow remote file access, and consumers tend to leave them on for overnight BitTorrent downloads or constant VOIP presence, said James Scott, a Microsoft researcher.
+Somniloquy lets a computer go to sleep yet maintain a presence on the network. It has an SD Card for memory, so it could continue to download or even share files. It can also maintain a VOIP connection, waking up the PC when a call comes in. Somniloquy can also wake up the PC if someone is trying to remotely access the machine.
+The power difference is astounding: Scott showed the desktop computer was consuming around 85 watts of power, but with Somniloquy, it consumes only around 4 watts. That small amount of power is used to maintain the DRAM state and power Somniloquy.
+"Instead of having computers as all-on or all-off we want more finer-grained tiers of functionality in the computer so that when the user is not there you don't need the graphics card on, you don't need the CPU on," Scott said.
+In order to run BitTorrent or VOIP, Somniloquy would need to run application "stubs," or a stripped-down versions of an application with no user interface but capable of handling network protocols, Scott said.
+Since Microsoft doesn't make networking hardware, Somniloquy might be more appropriate for companies such as Intel or Broadcom to produce, Scott said.
+Microsoft's HomeWatcher is a small application that shows the amount of data downloaded and uploaded by users of a particular PC.
+Consumers often don't have an easy way to monitor their broadband usage, which can cause frustration when broadband connections may not be working well, said Tim Regan, a research software development engineer.
+"You don't want to know about your central heating unless you're bloody freezing -- then you do," Regan said. "It's those moments. One side of it is how do we apportion blame among ourselves. The other side is how do we become more sophisticated in what we're asking for."
+As demand for bandwidth and overall broadband data consumption increases, Regan said HomeWatcher could prompt more inquisitive questions from consumers over how they manage their network.
+Later this month, Microsoft plans to trial HomeWatcher in a few homes. Those testers will likely be able to mount a small screen near their computer that shows the data or can opt to use a desktop, Flash-based widget, Regan said.
+This software application allows the redirection of input and output calls from one server to another. One of the advantages is that Everest allows a disk that is receiving lots of write requests to allow another disk to handle that load, either on the same server or one nearby.
+"During a period of high load, the normal system can only really get about 100 requests per second for this particular brand of disk, whereas if you enable Everest, then we can get up to 200 requests per second," said Austin Donnelly, a research software design engineer. "That's quite an improvement in the request rate."
+Data that is written to another server is eventually copied back to the original file server, Donnelly said. "You can think of it as opportunistic use of spare resources," he said.
+Everest also can cut data-center energy use. Since Everest allows administrators to direct input and output calls, during certain times one server can be designated to handle all of them. The rest of the servers in the rack can then be shut down, Donnelly said.
+Microsoft has been working on Everest for about two years and experimented with it on the company's SQL Server product. Donnelly said Everest is fairly mature, but no decision has been made yet about when or how it will become a product.
+"We'd love to see this in Windows 7 but this is a research project," Donnelly said.

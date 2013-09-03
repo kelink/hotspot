@@ -1,0 +1,15 @@
+China Mobile helps alternative LTE to take off
+2009-10-07 17:34:00.0
+Track China's Leaders
+By Mikael Rickn?s at
+Wed  EDT
+China Mobile's use of TD-LTE (Time-Division Long-Term Evolution) will have global repercussions, with the technology used to improve indoor coverage and increase capacity in next-generation mobile broadband networks, according to an Ericsson executive.
+Currently, there are two main versions of LTE -- FDD (Frequency Division Duplex), which uses different channels to send and receive data, and TDD (TD Duplex), which uses the same channel to alternately send and receive data.
+When China Mobile, which has more than 500 million subscribers, received TDD spectrum to roll out LTE, it lit a match under the development of the technology. TDD is now getting the same treatment as LTE-based FDD, which is expected to be more widely deployed in the foreseeable future, said Erik Ekudden, vice president and head of technology and industry at Ericsson, in an interview at ITU Telecom World in Geneva. The fact that both versions are based on the same base technology allows them to take advantage of the same volumes and keep costs down, he said.
+But using TDD-based LTE is spreading beyond China. For every year that goes by, more unpaired spectrum is becoming available around the world, according to Ekudden.
+TDD spectrum is already big in India and large parts of Southeast Asia. Also, operators that are planning to buy FDD spectrum in the 2.6GHz band can complement that with TDD spectrum, which historically has been cheaper to acquire, according to Ekudden. That spectrum can then be used to off-load capacity from the rest of the network. The operator builds a traditional FDD-based macro network, but can then use TDD to build high-capacity indoor hotspots in malls, at enterprise offices or even in homes, Ekudden said.
+"So the TD-LTE option is a very good complement for capacity enhancement," said Ekudden.
+The advantage of using TDD for indoor coverage is that there isn't interference between it and the outdoor network, said Stephane Daeuble, senior manager at Motorola LTE Global Marketing, in a separate interview.
+Operators can also use the TDD spectrum for broadcast applications, according to Daeuble. The advantage is the same -- operators can off-load the broadcast traffic from the macro network. The fact that operators can change the ratio of data that is sent to and from the user also lends it well to broadcasting, Daeuble said.
+Motorola is set to trial TD-LTE with two large European operators, but the company is keeping the details under wraps.
+"The world has changed rapidly in the last six months and there is definite interest," Daeuble said of TD-LTE.

@@ -1,0 +1,7 @@
+ADR Report-Foreign shrs dip; data suggest sluggish recovery
+2009-10-20 16:18:00.0
+(Reuters) - Overseas shares traded in the United States fell on Tuesday as oil retreated from a 12-month high after poor U.S. housing data suggested an anemic economic recovery, prompting investors to book profits.
+U.S. crude CLc1 for November delivery fell 52 cents to settle at $79.09 a barrel after rising as high as $80.05, its highest since Oct. 14 of last year.
+The Bank of New York Mellon index of leading American Depositary Receipts (ADRs) .BKADR fell 1 percent, while the benchmark S&P 500 index
+The Bank of New York Mellon index of leading European ADRs .BKEUR was down 0.81 percent. In Europe, shares retreated from one-year highs to end lower, with a sharp decline in Barclays (
+Meanwhile, receipts with the Bank of New York Mellon index of leading Latin American ADRs .BKLA slid 2.81 percent. Stocks plunged in Brazil while Mexico stocks rebounded to positive territory in late trading.

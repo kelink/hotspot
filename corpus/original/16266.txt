@@ -1,0 +1,13 @@
+ADR Report-Foreign stocks jump on econ data, weak US dollar
+2009-06-11 18:05:00.0
+(Reuters) - Overseas shares traded in the United States rose on Thursday as U.S. economic data pointed to some improvement in the retail sector and U.S. labor market, encouraging bets on an economic recovery.
+The rise was underpinned by a weaker dollar, which helped boost oil and other commodity prices and also increased appetite for foreign shares traded in U.S. currency.
+Banks and oil companies led gains, with Wall Street-traded shares of Brazilian energy giant Petrobras (
+) up 4 percent at $45.15, and Japan's Mizuho Financial Group (
+The Bank of New York Mellon's index of leading American Depositary Receipts (ADRs) .BKADR gained 1.8 percent, while the blue-chip Dow Jones industrial average
+U.S. data showed retail sales rose in May for the first time in three months, and the number of workers filing new applications for jobless benefits fell for a fourth straight week last week. For details see [ID:nN11493029]
+The Bank of New York Mellon's index of leading Asian ADRs .BKAS gained 1.6 percent. Overnight in Asia, most major markets were flat to lower, except Taiwan, where the TAIEX index
+), up 2.4 percent at $54.04, and Japanese machinery builder Hitachi HIT.N, up 3.9 percent at $33.94.
+The Bank of New York Mellon's index of leading European ADRs .BKEUR advanced 1.9 percent. The FTSEurofirst 300
+index of top European shares rose 0.9 percent to a five-month closing high, powered by banks.
+The Bank of New York Mellon's index of leading Latin American ADRs .BKLA jumped 2.9 percent. In Latin America, major benchmarks tracked Wall Street to close higher.

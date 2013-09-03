@@ -1,0 +1,7 @@
+Researcher pressured to pull 'Conficker' talk
+2009-07-29 19:52:00.0
+(Reuters) - Investigators searching for the criminals who infected millions of computers with the notorious Conficker virus are trying to limit access to information about its creators.
+The investigators pressured one of the world's leading experts in cybercrime to pull a talk on Conficker's origins and motives of the gang behind the attack. He was due to discuss the topic on Thursday at the Black Hat security conference in Las Vegas, one of the world's top forums for exchanging information on Internet threats
+"I was asked not to go into that because of an ongoing investigation," Mikko Hypponen, chief research officer for Internet security firm F-Secure, said in an interview on Wednesday.
+Hypponen said he will still speak about Conficker at the conference, but "there will be no news" on the virus that attacks machines running Microsoft Corp's (
+The Conficker botnet is one of many such networks controlled by syndicates that authorities believe are based in eastern Europe, Southeast Asia, China and Latin America. (Reporting by Jim Finkle; editing by Andre Grenon)

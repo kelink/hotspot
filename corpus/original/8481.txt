@@ -1,0 +1,29 @@
+Exchange 2010: Five Reasons Why I'm Upgrading
+2009-11-03 18:41:00.0
+Exchange 2010: Five Reasons Why I'm Upgrading | Reuters
+Track China's Leaders
+Exchange 2010: Five Reasons Why I'm Upgrading
+By Shane O'Neill at
+Tue  EST
+Microsoft faces increasing competitive pressure from its Web-based rival, Google Apps, as it prepares to make Exchange 2010 generally available on Nov. 9. Microsoft promises an online version of Exchange 2010 will follow sometime next year.
+While there are examples of businesses moving to online productivity suites, plenty of businesses say that they are still uncomfortable with having important company e-mails living on someone else's servers and prefer to keep e-mail system management on premises.
+"We don't have any plans to use the hosted model of Exchange. I think only a small company can do something like that," says John Bowden, CIO and IT Director for Lifetime Products, a Utah-based manufacturer of outdoor sheds, folding tables and chairs, and playground and basketball equipment.
+With 1,400 employees spread out in locations in the United States, Mexico and China, Lifetime is upgrading to the on-premises version of Exchange 2010 from Exchange 2007 to improve communication, Bowden says.
+The need to be in contact with supply chain partners in different parts of the world keeps Lifetime's IT department very focused on unified communications. Lifetime has been on Exchange for many years. In 2007, the company deployed Exchange 2007 with Unified Messaging, which established one messaging platform for all its employees by standardizing Outlook on desktop, the Web and on mobile devices.
+But Lifetime CIO Bowden says that he saw enough new unified messaging features and potential cost savings in Exchange 2010 to push for an upgrade. Last month, Lifetime upgraded 150 mailboxes to Exchange Server 2010 and expects to have the entire migration to Exchange Server 2010 completed by the end of November 2009.
+[ For complete coverage on Microsoft's new Windows 7 operating system -- including hands-on reviews, video tutorials and advice on enterprise rollouts -- see CIO.com's Windows 7 Bible. ]
+In a recent interview, Bowden discussed new features in Exchange 2010 and how they will improve communication at Lifetime, reduce the amount of desk phones and cut down on IT and storage costs.
+One Voicemail Service, with Transcriptions
+With Exchange 2010, a feature called Voicemail Preview allows workers to receive text-transcriptions of their voicemail messages, saving the time it takes to listen to messages.
+"Often you can't listen to voicemail because you're around other people, and seeing the text and being able to forward it or copy and paste it is becoming a big deal to users," says Bowden.
+Another voicemail feature in Exchange 2010 that Lifetime will use is the ability to centrally manage employees' voicemail and e-mail using the Active Directory service in Windows Server 2008 R2, rather than having a separate voicemail system with a separate directory.
+"The cost savings from avoiding a third-party voicemail maintenance contract is around $43,000 a year," Bowden says.
+More significant for IT, says Bowden, is a feature in Exchange 2010 called DAG (database availability groups), a data replication technology that protects an Exchange server from experiencing downtime.
+DAG does both on-site and off-site data replication by storing copies of Lifetime's data on different servers with automatic failover.
+"All our employees around the world are connected to the corporate data center in Utah on the same Exchange server," Bowden says. "So we can't have any downtime, even when we do maintenance. What DAG provides is offline databases sitting there waiting to fall back on if you need them."
+"Right now we have content filtering of words and phrases coming into the company's e-mail system, but with Exchange 2010 we can protect what's going out. It will help with compliance," Bowden says.
+Lifetime also plans to use Exchange 2010 to collaborate with partners and customers through a feature called Federation for Exchange Server 2010. This feature allows Lifetime employees to share calendars and distribution lists with partners and customers, as if they belonged to the same organization.
+Bowden expects Lifetime to use Federation the most during research and development, when there are frequent meetings with supply chain partners about deadlines and schedules.
+"We work closely with our supply chain vendors. Calendars are always something our R&D people are dealing with, so Federation in Exchange Server 2010 should add value there."
+Exchange 2010 has 70 percent less disk I/O (input/output) requirements than Exchange 2007, according to Microsoft. Thus, Lifetime is able to use the slower, cheaper disks of DAS (direct-attached storage).
+Shane O'Neill is a senior writer at CIO.com. Follow him on Twitter at twitter.com/smoneill. Follow everything from CIO.com on Twitter at twitter.com/CIOonline.

@@ -1,0 +1,22 @@
+Internet porn filter -- no Garfield please
+2009-07-01 00:54:00.0
+(Reuters) - What do Johnny Depp, Garfield, Paris Hilton and roast pork have in common? In China, the answer is that a new government-mandated Internet filter rates some pictures of all four of them as bad for your moral health.
+Beijing has ordered all personal computers sold in China from July 1 to be preinstalled with the Green Dam software, which it says is designed to block pornographic and violent images, and which critics fear will be used to extend censorship.
+But a trial of the program, which is available online for free download (
+), suggested
+When the software is installed, and an image scanner activated, it blocks even harmless images of a film poster for cartoon cat Garfield, dishes of flesh-color cooked pork and on one search engine a close-up of film star Johnny Depp's face.
+With the image filter off, even though searches with words like "nude" are blocked, a hunt for adult websites throws up links to soft and hardcore pornography sites including one with a video of full penetrative sex playing on its front page.
+Green Dam has not detailed how it scans images for obscene content, but computer experts have said it likely uses color and form recognition to zoom in on potential expanses of naked flesh.
+Program settings allow users to chose how tightly they want images scanned. When too much skin is detected, Green Dam closes all Internet browsers with no warning, sometimes flashing up a notice that the viewer is looking at "harmful" content.
+But the interpretation of obscene is apparently generous enough to include the orange hue of Garfield's fur and, on the highest security settings, prevent viewers clicking through to any illustrated story on one English language news website.
+A program to scan written content appears less sensitive, with a string of explicit words typed into a word document triggering no response, although some users have complained in online forums of shut-downs similar to those of Web browsers.
+SEX OR POLITICS?
+The software also allows users to choose what they want to filter for, and besides adult websites and violence, categories include "gay" and "illegal activities."
+Gay and health activists fear the blanket ban on "gay content," in a country where homosexuality is not criminalized, could damage projects including sexual health and AIDS education.
+And government critics worry the "illegal activities" section will cover political and social activities Beijing objects to, tightening access to non-approved information, already filtered by censors and a firewall.
+Another setting allows Green Dam to take regular snapshots of a user's screen and store them for up to two weeks -- ostensibly so parents can monitor computer use by minors.
+But it could also potentially leave security officials a track of computer use by a suspected dissident, or be a gift to fraudsters hunting online bank details and private information.
+Western governments and trade groups have also asked China to reconsider, based on concerns ranging from cyber-security and performance of the software to Internet freedoms.
+"People say the software is not very stable and has many technological problems," said Joerg Wuttke, the president of the European Union Chamber of Commerce in China, which has dubbed the introduction of Green Dam "hasty."
+China's foreign ministry Tuesday declined to respond to criticisms of the software.
+(Additional reporting by Maxim Duncan, Kirby Chien and Alan Wheatley; Editing by Jerry Norton)

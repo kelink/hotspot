@@ -1,0 +1,15 @@
+FACTBOX-Three major iron ore indices
+2009-07-06 04:21:00.0
+(Reuters) - China's first compromise on iron ore talks to embrace a flexible pricing system is drawing interest in fast-growing iron ore indices among miners, steel mills and traders to manage growing price risks.
+* Frequency: Daily excluding UK bank holiday from June 1. (Before that, it issued weekly prices)
+* Data collection: Price data based on only actual transactions which are fed to its online systems, collected from more than 375 companies.
+* Lot size: Minimum 20,000 metric tonnes.
+Relevance: Used as a reference price for the world's first cleared over-the-counter iron ore swaps contract launched Singapore Exchange (
+) in April. Also used to settle OTC swaps that Credit Suisse and Deutsche Bank launched in May 2008. London Clearing House (LCH) also clears iron ore swaps using this reference price. --------------------------------------------------------------- -- The Metal Bulletin * Location: Delivered CFR to China. Base Qingdao-Rizhao-Lianyungang, normalised for any Chinese mainland sea port.
+* Quality: Base 62 pct Fe content, range 58 pct to 66 pct
+* Data collection: Actual transactions, which are reported to Metal Bulletin by any market participant conducting trades on a CFR China spot basis. Data collected between Monday 8:00 Singapore time and Thursday 17:00 London time.
+* Data calculation: Separates data into three sub-indices, based on a tonnage weighted average of the trade information. The final index is the non-weighted average of the three sub-indices and only the final index is published. It seeks to utilise at least 12 trades, or four for each sub-index, as a minimum to calculate the index.
+* Lot size: Minimum 30,000 tonnes, maximum 350,000 tonnes.
+* Relevance: Used to settle OTC swaps that Credit Suisse and Deutsche Bank launche in May 2008. --------------------------------------------------------------- -- PLATTS * Location: Delivered CFR main Chinese ports, normalised to Quingdao in North China.
+* Quality: Iron ore fines with Fe content of 62 pct. Cargoes of grades with 60 and 63.5 pct Fe content will be normalised to the 62 pct standard, using a daily market determined value expressed in US$ per dry metric tonne for every one percent of FE content.
+* Lot size: Minimum parcel size is 35,000 metric tonnes.

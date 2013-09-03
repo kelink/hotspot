@@ -1,0 +1,26 @@
+AMD spinoff starts building $4.2 billion NY plant
+2009-07-24 21:31:00.0
+Track China's Leaders
+Tue, Aug 11 2009
+Tue, Aug 11 2009
+Wed, Jul 22 2009
+Wed, Jul 22 2009
+Wed, Jul 22 2009
+Fri  EDT
+) spinoff Globalfoundries began building a $4.2 billion chip manufacturing facility in upstate New York on Friday, as it gears up to take on the likes of TSMC (
+The company spun off a foundry arm this year to compete with Taiwan Semiconductor Manufacturing Co Ltd, which currently works with AMD arch-foe Intel Corp (
+) to make Atom chips for netbooks, and United Microelectronics Corp (
+They said chip designers will be hesitant -- at least initially -- to burn their bridges with the Taiwanese giants, while the fab's technology will lag cash-rich Intel's (
+"My two cents is that it's going to be a white elephant. I don't think this is a project that they're equipped to take on and complete successfully," Collins Steward LLC analyst Ashok Kumar said.
+"If you look at foundries, the only company that has sustainably returned profits is TSMC. If you look at the other foundry companies like UMC and Chartered CSMF.SI, and a whole host of state-sponsored companies in China, all of them are bleeding red."
+"The math is very simple. It's a very capital-intensive industry, the R&D investments are very high. You need to have a high level of utilization to break even and return profit," Kumar said.
+Incentives may help. New York offered Globalfoundries up to $1.2 billion in incentives to locate the fab in the state, in what AMD said is the largest private-public investment in the state's history.
+The U.S. company holds a 34.2 percent stake in the venture and ATIC holds the remaining 65.8 percent. Their New York foundry is scheduled to begin production in 2012 and will create more than 1,400 jobs at the plant and an additional 5,000 related jobs, the company said.
+He said much of the initial equipment costs could be defrayed by business from AMD itself, but the key will be subsequent business from customers like Qualcomm Inc (
+), which may be less focused on the newest technology.
+Kanter pointed out that TSMC has had problems successfully manufacturing the newest chips, which may mean customers are willing to look elsewhere. He said Globalfoundries' collaboration with IBM (
+) would be attractive, since the company is known for its strong R&D.
+Charter Equity Research analyst Edward Snyder agreed that volume would determine the New York fab's success, but was less convinced of its ability to attract business.
+"Volume is going to be a big issue," he said. "This is a very expensive business."
+"You need customers and you need throughput through the factory . . . Given that they're still a full generation behind Intel, it's kind of difficult to do," he said.
+(Reporting by Clare Baldwin; Editing by Gary Hill)

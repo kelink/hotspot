@@ -1,0 +1,17 @@
+UPDATE 1-Banks given tougher stress testing methods
+2009-05-20 07:22:00.0
+(Reuters) - Banks will come under heavy regulatory pressure to use the first global set of standards for testing whether they can withstand big shocks, a top global supervisor said on Wednesday.
+Stress tests are used to show how much capital a bank would need to absorb losses, such as during a big fall in a stock market or major problems at another bank.
+The Bank for International Settlements, a forum for the world's central banks, published principles on Wednesday that banks will be under pressure to use as part of an existing general requirement to conduct stress tests.
+The principles take effect immediately and introduce a single set of global best practice, stamping out patchy, "mechanical" and "isolated" tests that lacked credibility in some parts of a bank and assumed shocks would be short and shallow.
+Banks have already begun to improve their stress testing and under the guidelines, overall responsibility is placed with the bank's board.
+"The current crisis underscores the importance of stress testing as an essential risk management and capital planning tool", said Nout Wellink, chairman of the BIS' Basel Committee on Banking Supervision. All members of the Basel Committee, which includes top economies like the United States, Japan, Britain, France and Germany, along with emerging markets like China, Brazil and India commit themselves to applying the standards the committee publishes.
+The crisis was possibly made worse by weaknesses in stress testing practices and more severe scenarios should have been used, the guidelines say.
+"Recent analysis has concluded that banks' stress tests did not produce large loss numbers in relation to their capital buffers going into the crisis or their actual loss experience," the guidelines said.
+"Stress testing practices at most banks, however, did not foster internal debate not challenge prior assumptions such as the cost, risk and speed with which new capital could be raised or that positions could be hedged or sold," it added.
+-- tests should identify a wide range of risks and improve capital and liquidity management;
+-- a bank should have written policies and procedures governing its tests and its operation documented;
+-- tests should feature a range of severities, including events capable of generating the most damage;
+-- a bank should take account of simultaneous pressures in funding and asset markets and the impact of a reduction in market liquidity;
+-- tests should cover complex products such as securitised products and include their underlying assets;
+(Reporting by Huw Jones; Editing by Ruth Pitchford)

@@ -1,0 +1,27 @@
+Why Lenovo still lags in consumer PCs (and how it plans to fix that)
+2009-10-27 21:20:00.0
+Track China's Leaders
+Tue  EDT
+If all had gone according to plan, Lenovo Group Ltd. today would be trading elbows with Dell Inc. for the second spot in the PC market, while preparing for a showdown with market leader, Hewlett-Packard Co.
+Instead, the Chinese PC maker remains a distant fourth, the same position it held two years ago when it made a big splash in the hot consumer PC market with the introduction of its Idea line of consumer portable computers and desktops.
+Lenovo still rules in units sold over the likes of Toshiba Corp., Apple Inc. and Asus Inc.
+"There's a pretty big gap between No. 2 and No. 3, and between No. 3 and the rest," said Richard Shim, an analyst with IDC.
+What happened? Lenovo's consumer sales failed to take off as fast as planned, even as Lenovo's traditional strength -- business PCs like the ThinkPad-- fell off a cliff.
+In markets it sought to capture, such as the U.S., Western Europe and Japan, Lenovo ranks sixth, seventh and seventh, respectively, according to IDC.
+Lenovo's performance "has been disappointing" there, said independent analyst, Rob Enderle.
+As a result, Lenovo has lost money the last three quarters. It dropped its American CEO, William Amelio at the beginning of the year.
+During a fiscal fourth-quarter 2009 presentation to financial analysts in May, (download PDF) Lenovo put up a slide bluntly blaming its losses in part to its "limited participation" in the consumer PC market.
+What has Lenovo done wrong? According to analysts, several things:
+1. Poor execution. Unlike its commercial PC business, which is based in Morrisville, N.C., Lenovo's consumer business is based in its Beijing headquarters. On one level, that makes sense: Lenovo has long dominated the Chinese consumer PC market. And PC design and manufacturing is almost wholly done in China these days.
+The problem, according to Enderle, is Lenovo's failure to localize. "Most firms who are successful in this segment [consumer PCs] have specialists in each key region set up to help create products unique to that region and deal with unique channel issues as well," he said. Lacking this "has hurt them to date."
+Or as Shim wrote in a research note in February shortly after Amelio's departure: "There has been the sense that Lenovo has been slow and poorly positioned to respond to PC market conditions."
+2. Overestimating its brand. Riding its IBM research and development heritage, "Lenovo's initial strategy when it went into the retail market was to try to get paid a buck for its innovation," Shim said. The problem, he said, was IBM's launch of its Idea lineup in January 2008 coincided with the rise of low-cost netbooks, which put pricing pressure not just on laptops, but all consumer PCs.
+As a result, retailers were loath to make room on their limited shelf space for what they saw as pricey Lenovo offerings, when cheaper PCs from HP and Acer abounded, Shim said.
+3. Failure to grasp the hot netbook market. Like other large vendors, Lenovo was several months late to the netbook party. Unlike HP or Dell, Lenovo hasn't been able to catch up, despite introducing critically praised, technically advanced models that were the envy of competitors, such as the first Nvidia Ion-powered netbook, the $499 ideaPad S12. Lenovo remains locked out of the top five in this fast-growing market, too, according to IDC.
+In a media presentation Monday announcing six new consumer PCs, Liu Jun, president of Lenovo's consumer PC business, said Lenovo was in a good position to deliver lower-priced computers than its rivals due to its proximity to Chinese-based suppliers. But Shim said "that is a difficult argument to defend given that every vendor is sourcing out of Asia and Taiwan today."
+What can Lenovo do? Enderle said it's all about execution in local sales channels.
+Lenovo "needs to continue to put international strength into the consumer side and mirror what companies like Acer have done to develop unique sales channel and product competence in each key region," he said. "They are on their way towards doing this, but it is a long road."
+Shim said Lenovo needs to continue delivering lower-priced offerings, such as the $499 IdeaCentre Q700 all-in-one, or its $249 Q100 net-top.
+Liu, meanwhile, said the worst is over for Lenovo, noting that the company has boosted year-over-year shipments in the last three quarters, with sales in 76 countries today. Its share of the consumer PC market worldwide is now 5.5%, according to IDC figures shown by Lenovo on Monday, its highest share ever.
+Lenovo has launched 20 new Idea models since the beginning of the year, Liu said. Many of these have been optimized to boot up faster and run better than competitors' gear on Microsoft's new Windows 7, he said.
+"Yes, yes, we are serious, and yes, it is not an easy journey," he said. "But in just over 18 months since our launch, we are well on our way to success."

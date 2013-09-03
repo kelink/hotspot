@@ -1,0 +1,13 @@
+Brief shocks may deliver AIDS vaccines better
+2009-10-22 13:55:00.0
+(Reuters) - Brief electric shocks may help the body better respond to certain kinds of experimental AIDS vaccines, U.S. researchers said on Thursday.
+Sandhya Vasan of the Aaron Diamond AIDS Research Center in New York said the technique, called electroporation, may be particularly useful in delivering DNA vaccines, which use an infectious agent's own genetic material to elicit an immune response.
+"With a brief pulse of electricity, our cell membrane temporarily opens up and allows a lot more of the DNA to get inside. The reason why DNA vaccines by themselves don't trigger A powerful immune response is because most of it (DNA) does not get inside our cells," Vasan told Reuters in an interview.
+In their study, Vasan and her colleagues used a relatively weak experimental DNA vaccine designed in 2001 using four genes from an AIDS virus circulating in China.
+When the vaccine was given by injection alone, only 25 percent of participants developed any immune response. But in its latest trial in 2007-2009 when the same vaccine was delivered using electroporation, the immune response appeared far stronger, Vasan told a meeting of AIDS vaccine researchers in Paris.
+"We improved the response rate, improved the duration of the response and it also improved the breadth of the response. There were four different genes of the virus, for the highest dose, people were responding to 3 or even 4 of the genes," Vasan said.
+Results later showed that those who got conventional injections had no immune response, while three out of the eight people given the lowest dose plus electrical pulse formed a response and everyone given the highest dose electroporally had immune response.
+"This is the first clinical trial of electroporation in healthy volunteers for a preventative vaccine. It can be applied to many diseases, many vaccines, not just for HIV," Vasan said.
+Her group plans to go into Phase 2 trial delivering another, stronger DNA vaccine through electroporation.
+Researchers are struggling to develop an AIDS vaccine that can protect people from being infected with the fatal and incurable virus. While dozens are in the works, only one vaccine has shown any efficacy at all and researchers are not sure how strong the effect actually is.
+People often develop some kind of immune response to HIV vaccines but this does not correlate into being protected, and scientists do not fully understand why not.

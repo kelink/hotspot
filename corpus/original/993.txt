@@ -1,0 +1,29 @@
+North Korea welcomes Google's Schmidt to Internet black hole
+2013-01-07 16:04:00.0
+(Reuters) - North Korea has done its best to butter up Google Inc. ahead of Executive Chairman Eric Schmidt's visit that started on Monday, even to the extent of setting up a gmail account for its state news agency KCNA at kcna@gmail.com.
+Sadly, the Hermit Kingdom's chosen email address doesn't work as it is short of the minimum six characters required for a Google account.
+If Schmidt, on a private visit with Google executive Jared Cohen and New Mexico Governor Bill Richardson, does access the Internet in his foreigners-only hotel, he's likely to find a similar experience to that in Google's Silicon Valley home.
+Maxim Duncan, a Reuters correspondent who was in Pyongyang in 2010 and 2012, said speeds on systems set up for visiting foreign journalists were faster than those he was used to in China and that no sites were blocked.
+"China correspondents were amused they could tweet in North Korea but not in China," he said.
+Schmidt may even come across a North Korean tablet that was unveiled last year and runs Google's Android operating system, although the tablet is likely a knock-off of a cheap Chinese clone, according to Martyn Williams, a technology journalist who runs the North Korea Tech blog (www.northkoreatech.org).
+But he will only get a glimpse of what experience of the web is like for the small elite that is granted access if he looks at the local Internet, essentially a North Korean-only Intranet that blocks access to the outside world.
+"If he types in google.com, he won't be able to reach it," said Williams, who has visited the North, a reclusive state that has been run by the Kim family since it was established in 1948 and where Amnesty International says 250,000 people are imprisoned in forced labor camps for political crimes.
+Even the local Intranet is limited to the politically sound among the 24 million strong population, according to Kim Heung-kwang, a North Korean computer engineering expert who defected to South Korea in 2004.
+"I think around 100,000 people can use Intranet. There's a North Korean version of portal service called "Naenara" (My Country) and people can download content posted there," he said.
+"People could do emails and chats until 2008, then the government shut down these services... (Now) It's all about digital content from propaganda papers such as Rodong Sinmun (the main ruling party daily) or little games."
+According to North Korean law, the punishment for using anti-regime or "bourgeois" cultural content ranges from three months to two years of hard labor. In severe cases, the code allows up to five years of re-education through labor.
+That is in sharp contrast to China, where social networking sites like Sina Corp's hugely popular Weibo regularly carry stinging criticism of low-level officials and corruption, although China censors access to many websites.
+North Korea's economy, burdened by the cost of maintaining 1.2 million strong armed forces, and both nuclear weapons and rocket development programs, is around 1/40th the size of South Korea's.
+Its Internet is similarly stunted. The North has registered just over 1,000 IP addresses, according to industry estimates compared with more than 112 million in neighboring South Korea and more than 1.5 billion in the United States.
+DEMOCRATIC PEOPLE'S REPUBLIC OF HACKING
+While North Korea's IT hardware skills are primitive, its software industry has had some successes.
+There's even a "Pyongyang Racer" computer game launched in 2012 and a software company called Nosotek also develops games and other applications at a fraction of the cost of other firms.
+Computers in the South from the government, military and financial services sector were targeted in an attack that antivirus firm McAfee, part of Intel Corp, dubbed "Ten Days of Rain" and which it said was a bid to probe the South's computer defenses in the event of a real conflict.
+"Cyberspace in North Korea is just a tool to attack and destroy enemies, not a space for sharing information," said Jang Se-yul, a former North Korean soldier who went to a military college to groom hackers and who defected to the South in 2008.
+Google's Cohen, who espoused the power of Twitter in the "Arab Spring" revolutions and during protests in Iran, also looks set to encounter the limits of freedom and technology in his trip to the North.
+Cohen held a well-publicized meeting with North Korean defectors last year which Schmidt also attended. Google itself hosted a dozen North Korean government officials the year before, according to people involved with the trip, although the technology giant declined comment when asked to confirm it.
+A surge in 3G cellphone usage to more than a million users in a service run by Egypt's Orascom Telecom Media Technology had triggered hopes among observers that technology could also crack the edifice of North Korea's one-party state now ruled by the third generation of the Kim family.
+But even a million cellphones is only 4 percent of the population and the network is tightly controlled, so users can only talk to others on the same network.
+Suh Yoon-hwan, a researcher at the Database Center for North Korean Human Rights, who surveyed more than 1,000 defectors who arrived in South last year, said the Internet was a dream for ordinary North Koreans.
+"Even cellphones aren't working well. And these are mostly for a limited group of people like traders or Chinese in North Korea," said Suh.
+"At the moment, people like thumbdrives, rather than CD-Roms because they are bigger capacity and smaller size. They watch South Korean soap operas or movies."

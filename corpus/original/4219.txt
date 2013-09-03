@@ -1,0 +1,29 @@
+U.S. arms makers said to be bleeding secrets to cyber foes
+2011-05-31 19:24:00.0
+(Reuters) - Top Pentagon contractors have been bleeding secrets for years as a result of penetrations of their computer networks, current and former national security officials say.
+The Defense Department, which runs its own worldwide eavesdropping, spying and code-cracking systems, says more than 100 foreign intelligence organizations have been trying to break into U.S. networks.
+Some of the perpetrators "already have the capacity to disrupt" U.S. information infrastructure, Deputy Defense Secretary William Lynn, who is leading remedial efforts, wrote last fall in the journal Foreign Affairs.
+Joel Brenner, the National Counterintelligence executive from 2006 to 2009, said most if not all of the big defense contractors' networks had been pierced.
+"This has been happening since the late '90s," he told Reuters Tuesday. He identified the main threats as coming from Russia, China and Iran.
+"They're after our weapons systems and R&D," or research and development, said Brenner, now with the law firm of Cooley LLP in Washington.
+Lockheed Martin Corp, the Pentagon's No. 1 supplier by sales, said on Saturday that it had thwarted "a significant and tenacious" attack on its information systems network that it detected May 21. Ten days later, the company says its still working to restore full employee access to the network while maintaining the highest level of security.
+Lockheed, which is also the government's top information technology provider, said it had become "a frequent target of adversaries from around the world." A spokeswoman said it said it used the term "adversaries" only in a general sense.
+Lockheed builds F-16, F-22 and F-35 fighter jets as well as Aegis naval combat system, THAAD missile defense and other big-ticket weapons systems sold to U.S. allies. It has not disclosed which of its business units was targeted.
+Cyber intruders were reported in 2009 to have broken into computers holding data on Lockheed's projected $380 billion-plus F-35 fighter program, the Pentagon's costliest arms purchase.
+Other big Pentagon contractors include Boeing Co, Northrop Grumman Corp, General Dynamics Corp, BAE Systems Plc and Raytheon Co. Each of these declined to comment on whether it believed its networks had been penetrated.
+James Miller, the principal deputy undersecretary of defense for policy, said last May that the United States was losing terabytes of data in cyber attacks, enough to fill "multiple Libraries of Congress." The world's largest library, its archive totaled about 235 terabytes of data as of April, the Library of Congress says on its web site.
+"The scale of compromise, including the loss of sensitive and unclassified data, is staggering," Miller told a Washington forum.
+U.S. Senator Sheldon Whitehouse, who led a Senate Intelligence Committee cyber task force last year, said in March that cybercrime has put the United States "on the losing end of what could be the largest illicit transfer of wealth in world history."
+Retired Air Force General Michael Hayden, a former director of central intelligence and ex-head of the Pentagon's National Security Agency, said no network was safe if it had Internet access.
+"You can isolate a network, a classified network," he told Reuters in an interview last year. "Maybe you can get a certain level of confidence that you are not penetrated. But if you are out there connected to the world wide web you are vulnerable all the time."
+Anup Ghosh, a former senior scientist at the Pentagon's Defense Advanced Research Projects Agency, or DARPA, said there had been a string of intrusions into networks of U.S. defense contractors, security companies and U.S. government labs, including the U.S. Energy Department's Oak Ridge National Laboratory, since the start of this year.
+The advantage is with the intruders, said Ghosh, who worked on securing military networks for DARPA from 2002 to 2006 and now heads Invincea, a software security company.
+"We've failed to innovate in the area of information security," he said in an email Tuesday. "We're fighting today's battles with the equivalent of cold-war era defenses."
+(Reporting by Jim Wolf; Editing by Tim Dobbyn)
+                                                                                                                                                                                                                                                                                                                                                        
+How about requiring state-of-the-art security? Oh, wait, the GOP will filibuster any such attempt. Making Obama a one-term President takes precedence over national security.
+Jun 01, 20119:12am EDT--
+How is it cost effective to pay for systems that may well be compromised before they are even completed?
+Jun 01, 20113:26pm EDT--
+All the cyber criminals love bill gates, the monopoly man unable to secure even the most simple system from a child. The entire worlds cyber security woes lie at the feet of one dim little man, bill the loser, more interested in filling his fat pocket than delivering a product that actually worked and was secure.
+Jun 02, 20111:53am EDT--

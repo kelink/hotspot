@@ -1,0 +1,21 @@
+Pentagon may reach satellite analysis goal early
+2009-04-28 19:31:00.0
+(Reuters) - The U.S. military may reach its goal of doing collision analysis on 800 maneuverable satellites before October, and is examining the possibility of tracking 500 more satellites that cannot be maneuvered, a top Air Force general said on Tuesday.
+Lieutenant General Larry James, who heads U.S. Strategic Command's Joint Functional Component Command for Space, said the Air Force was working to respond to an increasingly complex and congested space environment, but many challenges remained.
+The collision, which was not predicted by the U.S. military or private tracking groups, had a big impact on future U.S. military planning "by tangibly demonstrating the vulnerability of our space assets," James told the House Science and Technology Committee's space and aeronautics subcommittee.
+He said the Air Force did not track Iridium satellites before the collision, but began less than five hours after the collision, and now screens over 330 objects daily.
+The service was on track to increase that number to include all 800 active, maneuverable satellites by October 1, and might even beat that date, James told Reuters after the hearing.
+He said the military was studying whether it made sense to also do "conjunction analysis" for satellites that could not be moved, and what resources would be needed to do that.
+The drive is part of an overall effort to work more closely with commercial satellite operators to increase data sharing, improve timeliness and accuracy of data, and protect sensitive information, James said.
+He said officials were working out legal agreements to expand a pilot program that gives commercial users access to Air Force orbital location data, so it could include conjunction
+assessments, launch support and other services.
+They were also exploring the possibility of putting government sensors on commercial satellites that could help improve monitoring of space, he said.
+Richard DalBello, vice president of Intelsat General, a unit of, said his company was ready to take on such sensors and urged the military to further expand its tracking and analysis to include even non-active satellites like the Russian one, but the dialogue was still going on.
+He said the U.S. government needed to decide whether it wanted to create a space control system similar to the Federal Aviation Administration's air traffic control system.
+DalBello welcomed expanded analysis of possible collisions, but said the Obama administration needed to adopt a coherent policy to institutionalize the move. "We need rules and procedures for getting high accuracy data," he said.
+For now, many questions remained unanswered from industry's point of view, he said, including whether it could count on U.S. military tracking data, and whether companies would always be notified about possible collisions in space.
+Representative Dana Rohrabacher said he was stunned that the Air Force had not been checking for possible collisions all along, especially in today's era of powerful computers. "That would have been a responsible course of action," he said.
+James agreed that much could be done by computers, but said any possible collisions flagged by the computer then required detailed analysis and action by highly trained analysts, including double-checking the accuracy of the orbital data.
+To date, the U.S. military had cataloged over 870 pieces of debris as a result of the February 10 collision, while China's use of a ground-based missile to destroy an aging satellite had created over 2,400 pieces of debris, James said.
+The number of objects being tracked could soar to 100,000 from 19,000, due to improving sensitivity of U.S. technology, including a Space Fence radar that will stare up at space.
+(Reporting by Andrea Shalal-Esa; Editing by Richard Chang)

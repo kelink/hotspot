@@ -1,0 +1,16 @@
+NYMEX-Crude choppy after jump to $70 on jobs data
+2009-06-05 09:40:00.0
+(Reuters) - U.S. crude oil futures seesawed near unchanged on Friday, but only after surging to a seven-month high above $70 a barrel on data showing U.S. nonfarm payrolls fell much less than expected in May.
+"Crude futures fell back here on profit-taking after the high above $70. The unemployment numbers were great in that there were fewer people losing their jobs, but the rate of unemployment rose more than expected," said Phil Flynn, analyst at Alaron Trading in Chicago.
+U.S. employers cut 345,000 jobs in May, the fewest since September and far less than forecast, according to a government report on Friday. However, the Labor Department said the unemployment rate rose to 9.4 percent, highest since a matching rate in July 1983, from 8.9 percent in April. [ID:nN04486858]
+March and April job losses were revised downward to show smaller declines of 652,000 and 504,000, respectively.
+Analysts polled by Reuters had forecast non-farm payrolls dropping by 520,000 in May. The unemployment rate had been forecast to rise only to 9.2 percent.
+"Better jobs data was already priced in and there's growing awareness that higher prices will make any recovery much shallower," said Mike Fitzpatrick, vice president at MF Global in New York, commenting on crude's pull back after the jump above $70 a barrel.
+* On the New York Mercantile Exchange at 9:20 a.m. EDT (1320 GMT), July crude CLN9 was down 27 cents, or 0.39 percent, at $68.54 a barrel, trading $68.30 to $70.32, the highest front-month intraday price since $70.46 was struck on Nov. 5.
+* In London, July Brent crude LCON9 was down 24 cents, or 0.35 percent, at $68.47 a barrel, trading from $68.05 to $69.91, the highest intraday price since Oct. 21's $73.29.
+* NYMEX July RBOB RBN9 was down 0.92 cent, or 0.47 percent, at $1.9529, trading from $1.95 to $1.9945, the highest intraday since Oct. 14's $1.9990.
+* NYMEX July heating oil HON9 was down 0.50 cent, or 0.28 percent, at $1.7790 a gallon, trading from $1.7699 to $1.8139, the highest intraday price since Nov. 24's $1.8302.
+* The July/July RBOB crack spread <0#RB-CL=R> was at $13.48. It ended at $13.60 on Thursday. The July/July heating oil crack spread <0#CL-HO=R> was at $6.18, after ending at $6.12 on Thursday.
+* The spread between the current front month and the five-year forward crude contract CLc61 was at $15.45, based on the July 2014 contract settlement on Thursday at $83.99. The spread ended at $15.18 on Thursday.
+* World stocks extended gains and government bonds tumbled after showed the U.S. economy lost a fewer-than-expected 345,000 jobs in May. [MKTS/GLOB]
+* China's top refineries plan to raise their crude oil processing in June to record levels after some plants completed maintenance, encouraged by a recent fuel price increase and falling fuel stocks, according to a Reuters poll. [ID:nPEK729] (Reporting by Robert Gibbons and Gene Ramos; Editing by Walter Bagley)
