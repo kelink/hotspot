@@ -1,8 +1,0 @@
-UPDATE 1-Service provider router sales recover in Q2 - firm
-2009-08-25 14:08:00.0
-(Reuters) - Global sales of routers to service providers like phone and cable companies rose 9 percent in the second quarter from the previous three months, showing an improvement in network spending, research firm Dell'Oro Group said on Tuesday.
-"We are not out of the woods yet, but it does look like the first quarter was the low-point in this downturn," said Shin Umeda, a vice president at Dell'Oro Group, which tracks trends in the network equipment industry.
-It said demand appeared to pick up the most in North America and the Asia Pacific region, with industry leader Cisco Systems Inc (
-After Cisco, Juniper Networks Inc JNPR.O was the No. 2 vendor in terms of market share in router sales to service providers, while Alcatel-Lucent SA (
-) was third and China's Huawei Technologies Co Ltd [HWT.UL] came in fourth.
-Despite widespread expectations that the worst of the downturn in technology investment is over, however, year-on-year comparisons show customers are still cautious. Cisco has forecast overall revenue in the current quarter to be up 1 to 3 percent from the previous quarter but down around 15 to 17 percent from a year earlier. (Reporting by Ritsuko Ando, editing by Gerald E. McCormick)
