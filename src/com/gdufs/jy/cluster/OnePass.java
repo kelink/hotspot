@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
@@ -169,21 +170,30 @@ public class OnePass {
 	public void getFeatureWord()
 	{
 		//map_WordTFDF.clear(); //清空原来的东西
+		// 1-定义数据
 		String word = null;
-		TFDF tfdf = null;
-		
+		TFDF tfdf = null;		
 		WordTFDF wordTFDF;
 		Set<Map.Entry<String, TFDF>> set = map_WordTFDF.entrySet();
+		
+		
+		// 2 - 用tf法提取特征词
 		for(Map.Entry<String, TFDF> entry : set)
 		{
 			tfdf = entry.getValue();
-			if(tfdf.getTF()>=3){
+			if(tfdf.getTF()>=1){
 				//选择词频>=3的词
 				wordTFDF = new WordTFDF(entry.getKey(), tfdf.getTF(), tfdf.getDF());
+				// 2.1 将特征词存在list_WordTFDF中
 				list_WordTFDF.add(wordTFDF);
 			}
 		}
+		// 2.2- 获取特征词长度
 		FeatureWordSize = list_WordTFDF.size();
+		
+		// 2 - 用信息增益法提取特征词
+		// IG(词wi) = -p(wi)*log(p(wi))
+		
 		
 	}
 	
@@ -235,10 +245,10 @@ public class OnePass {
 				tmp1 += textVector.tfidf[k];
 				k++;
 			}
-			System.out.println("i="+i+" before normalized tfidf_sum="+tmp1);
-			System.out.printf("i=%d before sqrt  normalized=%f%n", i,normalized);
+			//System.out.println("i="+i+" before normalized tfidf_sum="+tmp1);
+			//System.out.printf("i=%d before sqrt  normalized=%f%n", i,normalized);
 			normalized = Math.sqrt(normalized);
-			System.out.printf("i=%d after  sqrt  normalized=%f%n", i,normalized);
+			//System.out.printf("i=%d after  sqrt  normalized=%f%n", i,normalized);
 			if(normalized!=0)
 			{
 				for(int j=0; j<FeatureWordSize; ++j)
@@ -251,7 +261,7 @@ public class OnePass {
 					
 				}
 			}
-			System.out.println("i="+i+" after tfidf_sum="+tmp);
+			//System.out.println("i="+i+" after tfidf_sum="+tmp);
 			textVector.clusterNumber = 0;
 			list_TextVector.add(textVector);
 		}
@@ -468,7 +478,11 @@ public class OnePass {
 				//输出该剧类中的文件
 				for(int k=0; k<clusterTextList.size(); ++k)
 				{
-					bw.append(clusterTextList.get(k)+"  ");
+					int targetAi = clusterTextList.get(k);
+					//bw.append(targetAi+"  ");
+					String title = articles.get(targetAi).filename;
+					Date datetime = articles.get(targetAi).datetime;
+					bw.append(title+"   "+datetime+"\n");
 				}
 				bw.append("\n");
 			} catch(IOException e)

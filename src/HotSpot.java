@@ -34,7 +34,7 @@ public class HotSpot {
 //		System.out.println("1234".substring(3,4));
 		
 //		HotSpot hot = new HotSpot();
-		ArrayList<News> list = hot.selectCorpus("reuters", "2013-3-01", "2013-7-10");
+		ArrayList<News> list = hot.selectCorpus("wsj", "2013-1-01", "2013-7-31");
 		System.out.println(list.size());
 		ArrayList<Article> articlelist = hot.preprocess(list);
 		new OnePass().doProcess(articlelist);
@@ -122,6 +122,8 @@ public class HotSpot {
 			article.words = new ArrayList<String>();
 			article.index = index;
 			article.filename = news.getTitle();
+			article.datetime = news.getDate();
+			//System.out.println(article.datetime);
 			for(String word : words)
 			{
 				word = strip(word, "()\'\".,?:-!~").toLowerCase();
